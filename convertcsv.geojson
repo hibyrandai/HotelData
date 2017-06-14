@@ -1,0 +1,4529 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6544642,34.0745986 ]
+    },
+    "properties": {
+    "address":"4970 Cowan Road , Acworth, GA 30101-5130 US",
+    "category":15000,
+    "name":"Super 8 Acworth/Atlanta Area",
+    "url":"https://www.wyndhamhotels.com/super-8/acworth-georgia/super-8-acworth-atlanta-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6560733,34.0813947 ]
+    },
+    "properties": {
+    "address":"164 Northpoint Way , Acworth, GA 30102 US",
+    "category":15000,
+    "name":"Days Inn Acworth",
+    "url":"https://www.wyndhamhotels.com/days-inn/acworth-georgia/days-inn-acworth/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5776956,34.0308159 ]
+    },
+    "properties": {
+    "address":"3192 Barrett Lakes Boulevard , Kennesaw, GA 30144 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Kennesaw",
+    "url":"https://www.wyndhamhotels.com/baymont/kennesaw-georgia/baymount-inn-and-suites-kennesaw/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5672517,34.0060394 ]
+    },
+    "properties": {
+    "address":"760 Cobb Place Boulavard , Kennesaw, GA 30144 US",
+    "category":15000,
+    "name":"Days Inn Kennesaw",
+    "url":"https://www.wyndhamhotels.com/days-inn/kennesaw-georgia/days-inn-kennesaw-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.538244,34.0839432 ]
+    },
+    "properties": {
+    "address":"305 Molly Lane , Woodstock, GA 30189 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Woodstock/Atlanta North",
+    "url":"https://www.wyndhamhotels.com/microtel/woodstock-georgia/microtel-inn-and-suites-woodstock-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.785323,34.17031 ]
+    },
+    "properties": {
+    "address":"420 East Church St , Cartersville, GA 30121 US",
+    "category":15000,
+    "name":"Knights Inn Cartersville",
+    "url":"https://www.wyndhamhotels.com/knights-inn/cartersville-georgia/knights-inn-cartersville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7577214,34.207172 ]
+    },
+    "properties": {
+    "address":"45 Highway 20 SPUR SouthEast , Cartersville, GA 30121 US",
+    "category":15000,
+    "name":"Super 8 Cartersville",
+    "url":"https://www.wyndhamhotels.com/super-8/cartersville-georgia/super-8-cartersville-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7657163,34.2043084 ]
+    },
+    "properties": {
+    "address":"5618 Highway 20 Southeast , Cartersville, GA 30120 US",
+    "category":15000,
+    "name":"Days Inn Cartersville",
+    "url":"https://www.wyndhamhotels.com/days-inn/cartersville-georgia/days-inn-cartersville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5299235,33.9607805 ]
+    },
+    "properties": {
+    "address":"753 North Marietta Parkway , Marietta, GA 30060 US",
+    "category":15000,
+    "name":"Days Inn Marietta White Water",
+    "url":"https://www.wyndhamhotels.com/days-inn/marietta-georgia/days-inn-marietta-whitewater/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.816886,34.207228 ]
+    },
+    "properties": {
+    "address":"1348 Joe Frank Harris Pkwy SE , Cartersville, GA 30120 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Cartersville",
+    "url":"https://www.wyndhamhotels.com/microtel/cartersville-georgia/microtel-inn-and-suites-cartersville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5057372,33.9365276 ]
+    },
+    "properties": {
+    "address":"610 Franklin Gateway , Marietta, GA 30067 US",
+    "category":15000,
+    "name":"Super 8 Marietta/West/Atl Area",
+    "url":"https://www.wyndhamhotels.com/super-8/marietta-georgia/super-8-marietta-west-atl-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4908701,33.9217212 ]
+    },
+    "properties": {
+    "address":"2170 Delk Road Southeast , Marietta, GA 30067-8761 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Marietta/Atlanta North",
+    "url":"https://www.wyndhamhotels.com/baymont/marietta-georgia/baymont-inn-and-suites-marietta-atlanta-north/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4679718,33.9221276 ]
+    },
+    "properties": {
+    "address":"1175 Powers Ferry Pl S.E. , Marietta, GA 30067 US",
+    "category":15000,
+    "name":"Ramada Marietta/Atlanta North",
+    "url":"https://www.wyndhamhotels.com/ramada/marietta-georgia/ramada-marietta-northwest-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.485845,33.9200688 ]
+    },
+    "properties": {
+    "address":"2191 Northwest Parkway , Marietta, GA 30067 US",
+    "category":15000,
+    "name":"Days Inn Marietta-Atlanta-Delk Road",
+    "url":"https://www.wyndhamhotels.com/days-inn/marietta-georgia/days-inn-marietta-atlanta-delk-road/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8089983,34.2736042 ]
+    },
+    "properties": {
+    "address":"11 Kent Drive , Cartersville, GA 30121-7219 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Cartersville",
+    "url":"https://www.wyndhamhotels.com/baymont/cartersville-georgia/baymont-inn-and-suites-cartersville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.473076,33.8990695 ]
+    },
+    "properties": {
+    "address":"4502 Circle 75 Parkway , Atlanta, GA 30339 US",
+    "category":15000,
+    "name":"Days Inn Atlanta Marietta Galleria",
+    "url":"https://www.wyndhamhotels.com/days-inn/atlanta-georgia/days-inn-atlanta-marietta-galleria/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4871238,34.245144 ]
+    },
+    "properties": {
+    "address":"101 Juniper Street , Canton, GA 30114 US",
+    "category":15000,
+    "name":"Days Inn Canton",
+    "url":"https://www.wyndhamhotels.com/days-inn/canton-georgia/days-inn-canton-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4718846,33.8843777 ]
+    },
+    "properties": {
+    "address":"2762 Cobb Parkway Southeast , Atlanta, GA 30339 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Atlanta Galleria Center",
+    "url":"https://www.wyndhamhotels.com/wingate/atlanta-georgia/wingate-by-wyndham-atlanta-galleria-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4934895,33.8275143 ]
+    },
+    "properties": {
+    "address":"5130 South Cobb Drive , Smyrna, GA 30082 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Smyrna",
+    "url":"https://www.wyndhamhotels.com/baymont/smyrna-georgia/baymont-inn-and-suites-smyrna/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6035806,33.7795911 ]
+    },
+    "properties": {
+    "address":"1595 North Blair Bridge Road , Austell, GA 30168 US",
+    "category":15000,
+    "name":"Knights Inn Austell Near Six Flags",
+    "url":"https://www.wyndhamhotels.com/knights-inn/austell-georgia/knights-inn-atlanta-west-near-six-flags/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3234854,34.0394277 ]
+    },
+    "properties": {
+    "address":"1005 Kingswood Place , Alpharetta, GA 30004-4731 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Alpharetta",
+    "url":"https://www.wyndhamhotels.com/wingate/alpharetta-georgia/wingate-by-wyndham-alpharetta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6068436,33.7747292 ]
+    },
+    "properties": {
+    "address":"976 West Pointe Court , Lithia Springs, GA 30122 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Lithia Springs Atlanta",
+    "url":"https://www.wyndhamhotels.com/baymont/lithia-springs-georgia/baymont-inn-and-suites-lithia-springs-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3227551,34.0198726 ]
+    },
+    "properties": {
+    "address":"1500 Market Boulevard , Roswell, GA 30076-2712 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Roswell Atlanta North",
+    "url":"https://www.wyndhamhotels.com/baymont/roswell-georgia/baymont-inn-and-suites-roswell/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3608956,33.9207974 ]
+    },
+    "properties": {
+    "address":"6096 Barfield Road , Atlanta, GA 30328 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Atlanta Perimeter Center",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/atlanta-georgia/hawthorn-suites-by-wyndham-atlanta-perimeter-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3521271,33.9257984 ]
+    },
+    "properties": {
+    "address":"6280 Peachtree Dunwoody Road , Atlanta, GA 30328 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Atlanta/Perimeter Center",
+    "url":"https://www.wyndhamhotels.com/microtel/atlanta-georgia/microtel-inn-and-suites-perimeter-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.55734,33.7696309 ]
+    },
+    "properties": {
+    "address":"7377 Six Flags Dr. , Austell, GA 30168 US",
+    "category":15000,
+    "name":"Super 8 Austell/Six Flags",
+    "url":"https://www.wyndhamhotels.com/super-8/austell-georgia/super-8-austell-six-flags/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.554855,33.7718148 ]
+    },
+    "properties": {
+    "address":"65 South Service Road , Austell, GA 30168 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Atlanta/Six Flags Austell",
+    "url":"https://www.wyndhamhotels.com/wingate/austell-georgia/wingate-by-wyndham-atlanta-six-flags-austell/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.713831,33.753233 ]
+    },
+    "properties": {
+    "address":"5489 Westmoreland Plaza , Douglasville, GA 30134 US",
+    "category":15000,
+    "name":"Days Inn Douglasville-Atlanta-Fairburn Road",
+    "url":"https://www.wyndhamhotels.com/days-inn/douglasville-georgia/days-inn-douglasville-atlanta-fairburn-road/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.296305,34.038517 ]
+    },
+    "properties": {
+    "address":"3020 Mansell Road , Alpharetta, GA 30022 US",
+    "category":15000,
+    "name":"Ramada Limited Alpharetta",
+    "url":"https://www.wyndhamhotels.com/ramada/alpharetta-georgia/ramada-limited-suites-alpharetta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3814653,33.8526277 ]
+    },
+    "properties": {
+    "address":"3600 Piedmont Road Northeast , Atlanta, GA 30305 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Atlanta/Buckhead",
+    "url":"https://www.wyndhamhotels.com/wingate/atlanta-georgia/wingate-by-wyndham-atlanta-buckhead/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5276457,33.7652971 ]
+    },
+    "properties": {
+    "address":"4330 Fulton Industrial Blvd , Atlanta, GA 30336-1927 US",
+    "category":15000,
+    "name":"Knights Inn Atlanta Near Six Flags",
+    "url":"https://www.wyndhamhotels.com/knights-inn/atlanta-georgia/knights-inn-atlanta-near-six-flags/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9169476,34.3781058 ]
+    },
+    "properties": {
+    "address":"500 Georgia North Circle , Adairsville, GA 30103 US",
+    "category":15000,
+    "name":"Knights Inn Adairsville",
+    "url":"https://www.wyndhamhotels.com/knights-inn/adairsville-georgia/knights-inn-adairsville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9221113,34.4710264 ]
+    },
+    "properties": {
+    "address":"115 Hampton DR South East , Calhoun, GA 30701 US",
+    "category":15000,
+    "name":"Super 8 Calhoun",
+    "url":"https://www.wyndhamhotels.com/super-8/calhoun-georgia/super-8-calhoun-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9222374,34.4708616 ]
+    },
+    "properties": {
+    "address":"189 Jameson Street , Calhoun, GA 30701 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Calhoun",
+    "url":"https://www.wyndhamhotels.com/baymont/calhoun-georgia/baymont-inn-calhoun/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1662494,34.2591079 ]
+    },
+    "properties": {
+    "address":"840 Turner McCall Boulevard , Rome, GA 30161 US",
+    "category":15000,
+    "name":"Days Inn Rome Downtown",
+    "url":"https://www.wyndhamhotels.com/days-inn/rome-georgia/days-inn-rome-downtown/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1749484,34.2535399 ]
+    },
+    "properties": {
+    "address":"100-110 West 2nd Avenue , Rome, GA 30161 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Rome",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/rome-georgia/hawthorn-suites-by-wyndham-rome/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1522714,34.2207742 ]
+    },
+    "properties": {
+    "address":"21 Chateau Drive , Rome, GA 30161-7202 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Rome East",
+    "url":"https://www.wyndhamhotels.com/baymont/rome-georgia/baymont-inn-and-suites-rome-east/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2270781,34.2701358 ]
+    },
+    "properties": {
+    "address":"2209 Shorter Avenue , Rome, GA 30165-2030 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Rome West",
+    "url":"https://www.wyndhamhotels.com/baymont/rome-georgia/baymont-inn-and-suites-rome/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.437343,31.1341592 ]
+    },
+    "properties": {
+    "address":"1103 West 4th Street , Adel, GA 31620 US",
+    "category":15000,
+    "name":"Super 8 Adel",
+    "url":"https://www.wyndhamhotels.com/super-8/adel-georgia/super-8-adel/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4406692,31.1379984 ]
+    },
+    "properties": {
+    "address":"1204 West Fourth Street , Adel, GA 31620 US",
+    "category":15000,
+    "name":"Days Inn-Adel-South Georgia-Motorsports Park",
+    "url":"https://www.wyndhamhotels.com/days-inn/adel-georgia/days-inn-adel-south-georgia-motorsports-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3572176,30.895267 ]
+    },
+    "properties": {
+    "address":"4598 North Valdosta Road I-75 exit 22, Valdosta, GA 31602 US",
+    "category":15000,
+    "name":"Howard Johnson Valdosta",
+    "url":"https://www.wyndhamhotels.com/hojo/valdosta-georgia/howard-johnson-valdosta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3326984,30.8480331 ]
+    },
+    "properties": {
+    "address":"1389 North St. Augustine Rd , Valdosta, GA 31602 US",
+    "category":15000,
+    "name":"Super 8 Valdosta Mall",
+    "url":"https://www.wyndhamhotels.com/super-8/valdosta-georgia/super-8-valdosta-mall/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3326098,30.8474299 ]
+    },
+    "properties": {
+    "address":"1383 North St. Augustine Rd. , Valdosta, GA 31602 US",
+    "category":15000,
+    "name":"Days Inn Valdosta/Near Valdosta Mall",
+    "url":"https://www.wyndhamhotels.com/days-inn/valdosta-georgia/days-inn-valdosta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3234,30.8439 ]
+    },
+    "properties": {
+    "address":"1725 Gornto Road , Valdosta, GA 31601 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Valdosta at Valdosta Mall",
+    "url":"https://www.wyndhamhotels.com/baymont/valdosta-georgia/baymont-inn-and-suites-valdosta-at-valdosta-mall/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5284731,31.4413306 ]
+    },
+    "properties": {
+    "address":"579 Old Omega Road , Tifton, GA 31794 US",
+    "category":15000,
+    "name":"Howard Johnson Tifton",
+    "url":"https://www.wyndhamhotels.com/hojo/tifton-georgia/howard-johnson-tifton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5324276,31.4510448 ]
+    },
+    "properties": {
+    "address":"1199 Highway 82 West , Tifton, GA 31793 US",
+    "category":15000,
+    "name":"Days Inn Tifton",
+    "url":"https://www.wyndhamhotels.com/days-inn/tifton-georgia/days-inn-tifton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5294265,31.4528112 ]
+    },
+    "properties": {
+    "address":"196 Virginia Ave. South , Tifton, GA 31794 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Tifton",
+    "url":"https://www.wyndhamhotels.com/microtel/tifton-georgia/microtel-inn-and-suites-tifton-i-75-exit-62/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3112607,30.8190601 ]
+    },
+    "properties": {
+    "address":"1825 West Hill Avenue , Valdosta, GA 31601 US",
+    "category":15000,
+    "name":"Super 8 Valdosta/Conf Center Area",
+    "url":"https://www.wyndhamhotels.com/super-8/valdosta-georgia/super-8-valdosta-conf-center-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.311819,30.8186152 ]
+    },
+    "properties": {
+    "address":"1827 West Hill Ave , Valdosta, GA 31601 US",
+    "category":15000,
+    "name":"Days Inn Valdosta at Rainwater Conference Center",
+    "url":"https://www.wyndhamhotels.com/days-inn/valdosta-georgia/days-inn-valdosta-at-rainwater-conference-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5286507,31.457013 ]
+    },
+    "properties": {
+    "address":"1022 West 2nd St , Tifton, GA 31793-0047 US",
+    "category":15000,
+    "name":"Super 8 Tifton",
+    "url":"https://www.wyndhamhotels.com/super-8/tifton-georgia/super-8-tifton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3174186,32.5782785 ]
+    },
+    "properties": {
+    "address":"108 Alice Circle , Swainsboro, GA 30401 US",
+    "category":15000,
+    "name":"Days Inn & Suites Swainsboro",
+    "url":"https://www.wyndhamhotels.com/days-inn/swainsboro-georgia/days-inn-and-suites-swainsboro/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9302391,32.4953439 ]
+    },
+    "properties": {
+    "address":"2111 US Highway 441 South , Dublin, GA 31021 US",
+    "category":15000,
+    "name":"Days Inn Dublin GA",
+    "url":"https://www.wyndhamhotels.com/days-inn/dublin-georgia/days-inn-dublin-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9315242,32.4922546 ]
+    },
+    "properties": {
+    "address":"2150 Highway 441 South , Dublin, GA 31021 US",
+    "category":15000,
+    "name":"Super 8 Dublin",
+    "url":"https://www.wyndhamhotels.com/super-8/dublin-georgia/super-8-dublin-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9334977,32.4928079 ]
+    },
+    "properties": {
+    "address":"100 PM Watson Lane , Dublin, GA 31021 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Dublin",
+    "url":"https://www.wyndhamhotels.com/baymont/dublin-georgia/baymont-inn-dublin-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3930165,32.2103507 ]
+    },
+    "properties": {
+    "address":"1509 East 1st St , Vidalia, GA 30474-8800 US",
+    "category":15000,
+    "name":"Days Inn Vidalia",
+    "url":"https://www.wyndhamhotels.com/days-inn/vidalia-georgia/days-inn-vidalia-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8501357,31.4848563 ]
+    },
+    "properties": {
+    "address":"1610 South Peterson Ave , Douglas, GA 31535 US",
+    "category":15000,
+    "name":"Super 8 Douglas",
+    "url":"https://www.wyndhamhotels.com/super-8/douglas-georgia/super-8-douglas-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.157964,31.574885 ]
+    },
+    "properties": {
+    "address":"422 West Oglethorpe Blvd. , Albany, GA 31701 US",
+    "category":15000,
+    "name":"Days Inn Albany",
+    "url":"https://www.wyndhamhotels.com/days-inn/albany-georgia/days-inn-albany/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1752404,31.6106301 ]
+    },
+    "properties": {
+    "address":"2444 North Slappey Boulevard , Albany, GA 31701-1010 US",
+    "category":15000,
+    "name":"Knights Inn Albany",
+    "url":"https://www.wyndhamhotels.com/knights-inn/albany-georgia/knights-inn-albany/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2251396,31.6186542 ]
+    },
+    "properties": {
+    "address":"2720 Dawson Road , Albany, GA 31707 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Albany at Albany Mall",
+    "url":"https://www.wyndhamhotels.com/baymont/albany-georgia/baymont-inn-albany/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2270263,31.6221618 ]
+    },
+    "properties": {
+    "address":"2735 Dawson Road , Albany, GA 31707 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Albany",
+    "url":"https://www.wyndhamhotels.com/wingate/albany-georgia/wingate-by-wyndham-albany/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1955963,31.2247411 ]
+    },
+    "properties": {
+    "address":"300 Highway 19 , Camilla, GA 31730 US",
+    "category":15000,
+    "name":"Days Inn Camilla",
+    "url":"https://www.wyndhamhotels.com/days-inn/camilla-georgia/days-inn-camilla/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.322534,32.8705135 ]
+    },
+    "properties": {
+    "address":"1211 Highway 19 North , Thomaston, GA 30286 US",
+    "category":15000,
+    "name":"Days Inn Thomaston",
+    "url":"https://www.wyndhamhotels.com/days-inn/thomaston-georgia/days-inn-thomaston/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9404927,33.0429389 ]
+    },
+    "properties": {
+    "address":"343 North Lee Street , Forsyth, GA 31029 US",
+    "category":15000,
+    "name":"Days Inn Forsyth",
+    "url":"https://www.wyndhamhotels.com/days-inn/forsyth-georgia/days-inn-forsyth/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9245662,33.035444 ]
+    },
+    "properties": {
+    "address":"436 Tift College Road , Forsyth, GA 31029 US",
+    "category":15000,
+    "name":"Super 8 Forsyth",
+    "url":"https://www.wyndhamhotels.com/super-8/forsyth-georgia/super-8-forsyth/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.292761,33.2820892 ]
+    },
+    "properties": {
+    "address":"1719 North Expressway , Griffin, GA 30223 US",
+    "category":15000,
+    "name":"Days Inn Griffin",
+    "url":"https://www.wyndhamhotels.com/days-inn/griffin-georgia/days-inn-griffin/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2908847,33.2878076 ]
+    },
+    "properties": {
+    "address":"2010 North Expressway , Griffin, GA 30223 US",
+    "category":15000,
+    "name":"Super 8 Griffin",
+    "url":"https://www.wyndhamhotels.com/super-8/griffin-georgia/super-8-griffin/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.292391,33.2874801 ]
+    },
+    "properties": {
+    "address":"2007 North Expressway , Griffin, GA 30223-1168 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Griffin",
+    "url":"https://www.wyndhamhotels.com/baymont/griffin-georgia/baymont-inn-and-suites-griffen/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1297707,33.35253 ]
+    },
+    "properties": {
+    "address":"4605 Bill Gardners Parkway , Locust Grove, GA 30248 US",
+    "category":15000,
+    "name":"Super 8 Locust Grove",
+    "url":"https://www.wyndhamhotels.com/super-8/locust-grove-georgia/super-8-locust-grove/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1201725,33.3525206 ]
+    },
+    "properties": {
+    "address":"197 Stanley K Tanger Boulevard , Locust Grove, GA 30248 US",
+    "category":15000,
+    "name":"Ramada Locust Grove",
+    "url":"https://www.wyndhamhotels.com/ramada/locust-grove-georgia/ramada-limited-locust-grove/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9595082,33.2950916 ]
+    },
+    "properties": {
+    "address":"625 East Third Street , Jackson, GA 30233 US",
+    "category":15000,
+    "name":"Days Inn Jackson",
+    "url":"https://www.wyndhamhotels.com/days-inn/jackson-georgia/days-inn-jackson-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1587675,33.4137182 ]
+    },
+    "properties": {
+    "address":"744 Highway 155 South , McDonough, GA 30253 US",
+    "category":15000,
+    "name":"Days Inn McDonough",
+    "url":"https://www.wyndhamhotels.com/days-inn/mcdonough-georgia/days-inn-mcdonough/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6174324,31.8327975 ]
+    },
+    "properties": {
+    "address":"773 Veterans Parkway , Hinesville, GA 31313-3997 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Hinesville Fort Stewart Area",
+    "url":"https://www.wyndhamhotels.com/baymont/hinesville-georgia/baymont-inn-and-suites-hinesville-fort-stewart-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5787895,31.853247 ]
+    },
+    "properties": {
+    "address":"738 East Oglethorpe Highway , Hinesville, GA 31313 US",
+    "category":15000,
+    "name":"Travelodge Hinesville",
+    "url":"https://www.wyndhamhotels.com/travelodge/hinesville-georgia/travelodge-hinesville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3354563,31.9258874 ]
+    },
+    "properties": {
+    "address":"4494 US Highway 17 , Richmond Hill, GA 31324 US",
+    "category":15000,
+    "name":"Super 8 Richmond Hill",
+    "url":"https://www.wyndhamhotels.com/super-8/richmond-hill-georgia/super-8-richmond-hill/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3299479,31.9287702 ]
+    },
+    "properties": {
+    "address":"4120 Highway 17 , Richmond Hill, GA 31324 US",
+    "category":15000,
+    "name":"Travelodge Savannah Area/Richmond Hill",
+    "url":"https://www.wyndhamhotels.com/travelodge/richmond-hill-georgia/travelodge-savannah-area-richmond-hill/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3275451,31.93049 ]
+    },
+    "properties": {
+    "address":"3926 Highway 17 , Richmond Hill, GA 31324 US",
+    "category":15000,
+    "name":"Days Inn Richmond Hill/Savannah",
+    "url":"https://www.wyndhamhotels.com/days-inn/richmond-hill-georgia/days-inn-richmond-hill-savannah/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8694027,31.597338 ]
+    },
+    "properties": {
+    "address":"1096 Express Lane , Jesup, GA 31545 US",
+    "category":15000,
+    "name":"Days Inn Jesup",
+    "url":"https://www.wyndhamhotels.com/days-inn/jesup-georgia/days-inn-jesup/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.869552,31.5968891 ]
+    },
+    "properties": {
+    "address":"1100 Express Lane , Jesup, GA 31546-4014 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Jesup",
+    "url":"https://www.wyndhamhotels.com/baymont/jesup-georgia/baymont-inn-and-suites-jesup/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2805888,32.0016391 ]
+    },
+    "properties": {
+    "address":"387 Canebrake Rd , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Super 8 Savannah",
+    "url":"https://www.wyndhamhotels.com/super-8/savannah-georgia/super-8-savannah/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2810532,32.0019858 ]
+    },
+    "properties": {
+    "address":"393 Canebrake Road , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Savannah South",
+    "url":"https://www.wyndhamhotels.com/baymont/savannah-georgia/baymont-inn-and-suites-savannah-south/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2779947,32.0058316 ]
+    },
+    "properties": {
+    "address":"6 Gateway Boulevard East , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Days Inn & Suites Savannah Gateway/I-95 And 204",
+    "url":"https://www.wyndhamhotels.com/days-inn/savannah-georgia/days-inn-and-suites-savannah-gateway-i-95-and-204/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2755186,32.0041214 ]
+    },
+    "properties": {
+    "address":"17003 Abercorn Street , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Howard Johnson Express Inn Savannah GA",
+    "url":"https://www.wyndhamhotels.com/hojo/savannah-georgia/howard-johnson-express-inn-savannah-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2758354,32.0051923 ]
+    },
+    "properties": {
+    "address":"17009 Abercorn , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Travelodge Savannah Gateway",
+    "url":"https://www.wyndhamhotels.com/travelodge/savannah-georgia/travelodge-savannah-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.646857,32.6194266 ]
+    },
+    "properties": {
+    "address":"105 Woodcrest Blvd. , Warner Robins, GA 31093-8825 US",
+    "category":15000,
+    "name":"Super 8 Warner Robins",
+    "url":"https://www.wyndhamhotels.com/super-8/warner-robins-georgia/super-8-warner-robins/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6484472,32.6192679 ]
+    },
+    "properties": {
+    "address":"2024 Watson Blvd , Warner Robins, GA 31093 US",
+    "category":15000,
+    "name":"Ramada Hotel & Suites Warner Robins",
+    "url":"https://www.wyndhamhotels.com/ramada/warner-robins-georgia/ramada-hotel-and-suites-warner-robins/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4632089,31.5334082 ]
+    },
+    "properties": {
+    "address":"930 South Pierce Street , Alma, GA 31510 US",
+    "category":15000,
+    "name":"Days Inn Alma",
+    "url":"https://www.wyndhamhotels.com/days-inn/alma-georgia/days-inn-alma-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3290171,31.2161263 ]
+    },
+    "properties": {
+    "address":"950 City Blvd , Waycross, GA 31501 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Waycross",
+    "url":"https://www.wyndhamhotels.com/baymont/waycross-georgia/baymont-inn-waycross-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3313919,31.201694 ]
+    },
+    "properties": {
+    "address":"2016 Memorial Drive , Waycross, GA 31501 US",
+    "category":15000,
+    "name":"Days Inn Waycross",
+    "url":"https://www.wyndhamhotels.com/days-inn/waycross-georgia/days-inn-waycross/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3278119,31.201909 ]
+    },
+    "properties": {
+    "address":"132 Havanna Avenue , Waycross, GA 31501 US",
+    "category":15000,
+    "name":"Super 8 Waycross GA",
+    "url":"https://www.wyndhamhotels.com/super-8/waycross-georgia/super-8-waycross-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2106751,33.9611822 ]
+    },
+    "properties": {
+    "address":"5385 Peachtree Industrial Blvd , Norcross, GA 30092 US",
+    "category":15000,
+    "name":"Days Inn & Suites Norcross",
+    "url":"https://www.wyndhamhotels.com/days-inn/norcross-georgia/days-inn-and-suites-norcross-atlanta-ne-peachtree-ind-blvd/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2219516,33.9535906 ]
+    },
+    "properties": {
+    "address":"5800 Peachtree Industrial Blvd , Norcross, GA 30071 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Atlanta Norcross",
+    "url":"https://www.wyndhamhotels.com/wingate/norcross-georgia/wingate-by-wyndham-atlanta-norcross/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2109057,33.9226777 ]
+    },
+    "properties": {
+    "address":"2150 North Norcross Tucker Rd , Norcross, GA 30071 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Norcross",
+    "url":"https://www.wyndhamhotels.com/microtel/norcross-georgia/microtel-inn-and-suites-norcross/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.177949,33.9297305 ]
+    },
+    "properties": {
+    "address":"5122 Brook Hollow Parkway , Norcross, GA 30071 US",
+    "category":15000,
+    "name":"Knights Inn Norcross",
+    "url":"https://www.wyndhamhotels.com/knights-inn/norcross-georgia/knights-inn-norcross/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.175577,33.923998 ]
+    },
+    "properties": {
+    "address":"5150 Willow Oak Trail , Norcross, GA 30093-2511 US",
+    "category":15000,
+    "name":"Super 8 Norcross/I-85 Atlanta",
+    "url":"https://www.wyndhamhotels.com/super-8/norcross-georgia/super-8-norcross-i-85-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1318846,33.9524223 ]
+    },
+    "properties": {
+    "address":"1948 Day Drive , Duluth, GA 30096 US",
+    "category":15000,
+    "name":"Wyndham Garden Duluth",
+    "url":"https://www.wyndhamhotels.com/wyndham-garden/duluth-georgia/wyndham-garden-duluth/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.12685,33.955334 ]
+    },
+    "properties": {
+    "address":"3450 Venture Pkwy , Atlanta - Duluth, GA 30096 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Duluth/Atlanta",
+    "url":"https://www.wyndhamhotels.com/wingate/atlanta-duluth-georgia/wingate-by-wyndham-atlanta-duluth/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2738203,33.8796269 ]
+    },
+    "properties": {
+    "address":"2822 Chamblee Tucker Road , Atlanta, GA 30341 US",
+    "category":15000,
+    "name":"Super 8 Atlanta Northeast GA",
+    "url":"https://www.wyndhamhotels.com/super-8/atlanta-georgia/super-8-atlanta-northeast-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0489343,34.032429 ]
+    },
+    "properties": {
+    "address":"317 Sawmill Drive , Suwanee, GA 30174 US",
+    "category":15000,
+    "name":"Super 8 Suwanee",
+    "url":"https://www.wyndhamhotels.com/super-8/suwanee-georgia/super-8-suwanee/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2438487,33.844688 ]
+    },
+    "properties": {
+    "address":"2081 Northlake Pkwy , Tucker, GA 30084-5320 US",
+    "category":15000,
+    "name":"Days Inn & Suites Tucker/Northlake",
+    "url":"https://www.wyndhamhotels.com/days-inn/tucker-georgia/days-inn-suites-tuckernorthlake/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.335438,33.8359918 ]
+    },
+    "properties": {
+    "address":"1840 Corporate Blvd Northeast , Atlanta, GA 30329 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Atlanta/Buckhead Area",
+    "url":"https://www.wyndhamhotels.com/microtel/atlanta-georgia/microtel-inn-and-suites-atlanta-buckhead-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2503903,33.8288335 ]
+    },
+    "properties": {
+    "address":"2942 Lawrenceville Hwy , Tucker, GA 30084 US",
+    "category":15000,
+    "name":"Knights Inn Atlanta East",
+    "url":"https://www.wyndhamhotels.com/knights-inn/tucker-georgia/knights-inn-atlanta-east/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0133773,33.9672308 ]
+    },
+    "properties": {
+    "address":"731 Duluth Highway , Lawrenceville, GA 30045 US",
+    "category":15000,
+    "name":"Days Inn Lawrenceville",
+    "url":"https://www.wyndhamhotels.com/days-inn/lawrenceville-georgia/days-inn-lawrenceville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1090695,33.8249313 ]
+    },
+    "properties": {
+    "address":"2006 Glenn Club Dr , Stone Mountain, GA 30087 US",
+    "category":15000,
+    "name":"Days Inn Atlanta Stone Mountain",
+    "url":"https://www.wyndhamhotels.com/days-inn/stone-mountain-georgia/days-inn-atlanta-stone-mountain/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2942818,33.7805488 ]
+    },
+    "properties": {
+    "address":"917 Church Street , Decatur, GA 30030 US",
+    "category":15000,
+    "name":"Super 8 Decatur/Dntn/Atlanta Area",
+    "url":"https://www.wyndhamhotels.com/super-8/decatur-georgia/super-8-decatur-dntn-atlanta-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3870475,33.7424708 ]
+    },
+    "properties": {
+    "address":"450 Capitol Avenue Southeast , Atlanta, GA 30312 US",
+    "category":15000,
+    "name":"Ramada Plaza Atlanta Downtown Capitol Park",
+    "url":"https://www.wyndhamhotels.com/ramada/atlanta-georgia/ramada-plaza-atlanta-downtown-capitol-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0345742,34.3667538 ]
+    },
+    "properties": {
+    "address":"205 North 400 Center Lane , Dawsonville, GA 30534 US",
+    "category":15000,
+    "name":"Super 8 Dawsonville",
+    "url":"https://www.wyndhamhotels.com/super-8/dawsonville-georgia/super-8-dawsonville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5504836,34.5134337 ]
+    },
+    "properties": {
+    "address":"1477 Level Grove Road , Cornelia, GA 30531 US",
+    "category":15000,
+    "name":"Days Inn Cornelia",
+    "url":"https://www.wyndhamhotels.com/days-inn/cornelia-georgia/days-inn-cornelia/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5286512,34.480376 ]
+    },
+    "properties": {
+    "address":"1105 Highway 441 Bypass , Cornelia, GA 30531 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Cornelia",
+    "url":"https://www.wyndhamhotels.com/baymont/cornelia-georgia/baymont-inn-and-suites-cornelia/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5419324,34.5398314 ]
+    },
+    "properties": {
+    "address":"2965 J Warren Rd. , Cornelia, GA 30531 US",
+    "category":15000,
+    "name":"Super 8 Cornelia",
+    "url":"https://www.wyndhamhotels.com/super-8/cornelia-georgia/super-8-cornelia/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7633216,34.5930019 ]
+    },
+    "properties": {
+    "address":"244 S Main St , Cleveland, GA 30545 US",
+    "category":15000,
+    "name":"Knights Inn Cleveland",
+    "url":"https://www.wyndhamhotels.com/knights-inn/cleveland-georgia/knights-inn-cleveland-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4616223,34.2572298 ]
+    },
+    "properties": {
+    "address":"152 Eisenhower Drive , Commerce, GA 30529 US",
+    "category":15000,
+    "name":"Super 8 Commerce",
+    "url":"https://www.wyndhamhotels.com/super-8/commerce-georgia/super-8-commerce/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4622697,34.2571565 ]
+    },
+    "properties": {
+    "address":"148 Eisenhower Dr. , Commerce, GA 30529 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Commerce GA",
+    "url":"https://www.wyndhamhotels.com/hojo/commerce-georgia/howard-johnson-inn-commerce-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4665918,34.2538268 ]
+    },
+    "properties": {
+    "address":"267 Steven B Tanger Blvd , Commerce, GA 30529 US",
+    "category":15000,
+    "name":"Travelodge Commerce GA Near Tanger Outlets Mall",
+    "url":"https://www.wyndhamhotels.com/travelodge/commerce-georgia/travelodge-commerce-ga-near-tanger-outlets-mall/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.460099,34.2469382 ]
+    },
+    "properties": {
+    "address":"30976 HWY 441 South , Commerce, GA 30529-6652 US",
+    "category":15000,
+    "name":"Days Inn & Suites Commerce",
+    "url":"https://www.wyndhamhotels.com/days-inn/commerce-georgia/days-inn-and-suites-commerce/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7230984,34.7004328 ]
+    },
+    "properties": {
+    "address":"8220 S Main Street , Helen, GA 30545-3649 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Helen",
+    "url":"https://www.wyndhamhotels.com/baymont/helen-georgia/baymont-inn-and-suites-helen/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8229717,34.2973301 ]
+    },
+    "properties": {
+    "address":"400 EE Butler Pkwy , Gainesville, GA 30501-4525 US",
+    "category":15000,
+    "name":"Ramada Gainesville",
+    "url":"https://www.wyndhamhotels.com/ramada/gainesville-georgia/ramada-gainesville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8314258,34.2898277 ]
+    },
+    "properties": {
+    "address":"541 Dorsey Street , Gainesville, GA 30501 US",
+    "category":15000,
+    "name":"Super 8 Gainesville",
+    "url":"https://www.wyndhamhotels.com/super-8/gainesville-georgia/super-8-gainesville-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9749362,34.5248289 ]
+    },
+    "properties": {
+    "address":"833 South Chestatee Street , Dahlonega, GA 30533 US",
+    "category":15000,
+    "name":"Days Inn Dahlonega",
+    "url":"https://www.wyndhamhotels.com/days-inn/dahlonega-georgia/days-inn-dahlonega/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2077856,32.0697615 ]
+    },
+    "properties": {
+    "address":"1605 East Lamar Street , Americus, GA 31709 US",
+    "category":15000,
+    "name":"Days Inn Americus",
+    "url":"https://www.wyndhamhotels.com/days-inn/americus-georgia/days-inn-americus-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7492569,31.9586685 ]
+    },
+    "properties": {
+    "address":"2016 16th Avenue East , Cordele, GA 31015 US",
+    "category":15000,
+    "name":"Ramada Cordele",
+    "url":"https://www.wyndhamhotels.com/ramada/cordele-georgia/ramada-cordele/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7573102,31.9606471 ]
+    },
+    "properties": {
+    "address":"1618 East 16th Avenue , Cordele, GA 31015 US",
+    "category":15000,
+    "name":"Travelodge Cordele",
+    "url":"https://www.wyndhamhotels.com/travelodge/cordele-georgia/travelodge-cordele/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7561434,31.9547902 ]
+    },
+    "properties": {
+    "address":"416 South Greer Street , Cordele, GA 31015-5383 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Cordele",
+    "url":"https://www.wyndhamhotels.com/baymont/cordele-georgia/baymont-inn-and-suites-cordele/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6403873,31.7113673 ]
+    },
+    "properties": {
+    "address":"749 East Washington Ave , Ashburn, GA 31714 US",
+    "category":15000,
+    "name":"Super 8 Ashburn",
+    "url":"https://www.wyndhamhotels.com/super-8/ashburn-georgia/super-8-ashburn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.639363,31.709948 ]
+    },
+    "properties": {
+    "address":"156 Whittle Circle , Ashburn, GA 31714-1905 US",
+    "category":15000,
+    "name":"Days Inn Ashburn",
+    "url":"https://www.wyndhamhotels.com/days-inn/ashburn-georgia/days-inn-ashburn-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9403798,33.7256168 ]
+    },
+    "properties": {
+    "address":"195 Commerce Drive , Villa Rica, GA 30180 US",
+    "category":15000,
+    "name":"Days Inn Villa Rica",
+    "url":"https://www.wyndhamhotels.com/days-inn/villa-rica-georgia/days-inn-villa-rica/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4422161,33.9453345 ]
+    },
+    "properties": {
+    "address":"1050 Ultimate Drive , Athens, GA 30606 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Athens",
+    "url":"https://www.wyndhamhotels.com/microtel/athens-georgia/microtel-inn-athens/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4193187,33.9467047 ]
+    },
+    "properties": {
+    "address":"2465 West Broad St , Athens, GA 30606 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Athens",
+    "url":"https://www.wyndhamhotels.com/hojo/athens-georgia/howard-johnson-inn-athens/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3826757,33.9579565 ]
+    },
+    "properties": {
+    "address":"230 North Finley St , Athens, GA 30601 US",
+    "category":15000,
+    "name":"Days Inn Athens",
+    "url":"https://www.wyndhamhotels.com/days-inn/athens-georgia/days-inn-athens-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3664084,33.9732727 ]
+    },
+    "properties": {
+    "address":"255 North Ave , Athens, GA 30601-2279 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Athens Near Downtown",
+    "url":"https://www.wyndhamhotels.com/wingate/athens-georgia/wingate-by-wyndham-athens-near-downtown/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9227766,31.3842627 ]
+    },
+    "properties": {
+    "address":"1097 Arlington Avenue , Blakely, GA 39823 US",
+    "category":15000,
+    "name":"Days Inn Blakely",
+    "url":"https://www.wyndhamhotels.com/days-inn/blakely-georgia/days-inn-blakely/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8603129,34.1081548 ]
+    },
+    "properties": {
+    "address":"302 Elbert Street , Elberton, GA 30635 US",
+    "category":15000,
+    "name":"Days Inn Elberton",
+    "url":"https://www.wyndhamhotels.com/days-inn/elberton-georgia/days-inn-elberton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3655496,33.6483881 ]
+    },
+    "properties": {
+    "address":"3701 Jonesboro Road , Atlanta, GA 30354 US",
+    "category":15000,
+    "name":"Super 8 Atlanta/Jonesboro Road",
+    "url":"https://www.wyndhamhotels.com/super-8/atlanta-georgia/super-8-atlanta-jonesboro-road/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4586597,33.6328794 ]
+    },
+    "properties": {
+    "address":"4505 Best Rd , College Park, GA 30337 US",
+    "category":15000,
+    "name":"Days Inn College Park Airport Best Road",
+    "url":"https://www.wyndhamhotels.com/days-inn/college-park-georgia/days-inn-college-park-airport-best-road/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4027612,33.6143582 ]
+    },
+    "properties": {
+    "address":"5116 Highway 85 , Forest Park, GA 30297 US",
+    "category":15000,
+    "name":"Knights Inn Forest Park",
+    "url":"https://www.wyndhamhotels.com/knights-inn/forest-park-georgia/knights-inn-forest-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.454129,33.62454 ]
+    },
+    "properties": {
+    "address":"2010 Sullivan Road , College Park, GA 30337 US",
+    "category":15000,
+    "name":"Super 8 College Park/Atlanta Airport",
+    "url":"https://www.wyndhamhotels.com/super-8/college-park-georgia/super-8-college-park-atlanta-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4552707,33.6233942 ]
+    },
+    "properties": {
+    "address":"4839 Massachusetts Blvd , College Park, GA 30337 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Atlanta Airport",
+    "url":"https://www.wyndhamhotels.com/microtel/college-park-georgia/microtel-inn-atlanta-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4013709,33.6129988 ]
+    },
+    "properties": {
+    "address":"357 Lee Street , Forest Park, GA 30297 US",
+    "category":15000,
+    "name":"Ramada Atlanta Airport East/Forest Park",
+    "url":"https://www.wyndhamhotels.com/ramada/forest-park-georgia/ramada-atlanta-airport-east-forest-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.439846,33.6152 ]
+    },
+    "properties": {
+    "address":"1551 Phoenix Blvd , College Park, GA 30349-5503 US",
+    "category":15000,
+    "name":"Howard Johnson Atlanta Airport",
+    "url":"https://www.wyndhamhotels.com/hojo/college-park-georgia/howard-johnson-atlanta-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4393744,33.6141157 ]
+    },
+    "properties": {
+    "address":"1540 Phoenix Blvd , College Park, GA 30349 US",
+    "category":15000,
+    "name":"Days Inn College Park/Atlanta /Airport South",
+    "url":"https://www.wyndhamhotels.com/days-inn/college-park-georgia/days-inn-college-park-atlanta-airport-south/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4700565,33.6189892 ]
+    },
+    "properties": {
+    "address":"2451 Old National Pkwy , College Park, GA 30349 US",
+    "category":15000,
+    "name":"Days Inn & Suites/College Park/Atlanta/Airport West",
+    "url":"https://www.wyndhamhotels.com/days-inn/college-park-georgia/days-inn-and-suite-college-park-atlanta-airport-west/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.470668,33.619063 ]
+    },
+    "properties": {
+    "address":"2471 Old National Parkway , College Park, GA 30349 US",
+    "category":15000,
+    "name":"Travelodge College Park",
+    "url":"https://www.wyndhamhotels.com/travelodge/college-park-georgia/travelodge-college-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4718869,33.6194344 ]
+    },
+    "properties": {
+    "address":"5010 Old National Highway , Atlanta, GA 30349-3258 US",
+    "category":15000,
+    "name":"Ramada Plaza Atlanta Airport",
+    "url":"https://www.wyndhamhotels.com/ramada/atlanta-georgia/ramada-plaza-atlanta-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4702393,33.6175909 ]
+    },
+    "properties": {
+    "address":"2450 Old National Parkway , College Park, GA 30349-3268 US",
+    "category":15000,
+    "name":"Knights Inn Atlanta Airport South",
+    "url":"https://www.wyndhamhotels.com/knights-inn/college-park-georgia/knights-inn-atlanta-airport-south/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4758468,33.6196998 ]
+    },
+    "properties": {
+    "address":"4979 Old National Highway , College Park, GA 30349 US",
+    "category":15000,
+    "name":"Super 8 College Park/Atlanta Airport West",
+    "url":"https://www.wyndhamhotels.com/super-8/college-park-georgia/super-8-college-park-atlanta-airport-west/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3778066,33.5900426 ]
+    },
+    "properties": {
+    "address":"6025 Old Dixie Highway , Forest Park, GA 30297 US",
+    "category":15000,
+    "name":"Travelodge Forest Park Atlanta South",
+    "url":"https://www.wyndhamhotels.com/travelodge/forest-park-georgia/travelodge-forest-park-atlanta-south/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3765086,33.587682 ]
+    },
+    "properties": {
+    "address":"410 Old Dixie Way , Forest Park, GA 30297 US",
+    "category":15000,
+    "name":"Super 8 Forest Park",
+    "url":"https://www.wyndhamhotels.com/super-8/forest-park-georgia/super-8-forest-park/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.346797,33.578753 ]
+    },
+    "properties": {
+    "address":"1348 Southlake Plaza Drive , Morrow, GA 30260-1750 US",
+    "category":15000,
+    "name":"Knights Inn Morrow",
+    "url":"https://www.wyndhamhotels.com/knights-inn/morrow-georgia/knights-inn-morrow/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3383187,33.5768825 ]
+    },
+    "properties": {
+    "address":"1599 Adamson Parkway , Morrow, GA 30260 US",
+    "category":15000,
+    "name":"Days Inn Morrow Southlake",
+    "url":"https://www.wyndhamhotels.com/days-inn/morrow-georgia/days-inn-morrow-southlake/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1716561,33.7045356 ]
+    },
+    "properties": {
+    "address":"2859 Panola Road , Lithonia, GA 30058 US",
+    "category":15000,
+    "name":"Knights Inn Lithonia Atlanta East Area",
+    "url":"https://www.wyndhamhotels.com/knights-inn/lithonia-georgia/knights-inn-lithonia-atlanta-east-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1708723,33.7061004 ]
+    },
+    "properties": {
+    "address":"5354 Snap Finger Park Dr , Decatur, GA 30035-4040 US",
+    "category":15000,
+    "name":"Super 8 Decatur/Lithonia/Atl Area",
+    "url":"https://www.wyndhamhotels.com/super-8/decatur-georgia/super-8-decatur-lithonia-atl-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5399227,33.5717163 ]
+    },
+    "properties": {
+    "address":"6743 Shannon Parkway , Union City, GA 30291-2023 US",
+    "category":15000,
+    "name":"Days Inn & Suites Union City",
+    "url":"https://www.wyndhamhotels.com/days-inn/union-city-georgia/days-inn-and-suites-union-city/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.273399,33.5532695 ]
+    },
+    "properties": {
+    "address":"7385 Hannover Parkway North , Stockbridge, GA 30281 US",
+    "category":15000,
+    "name":"Days Inn & Suites Stockbridge South Atlanta",
+    "url":"https://www.wyndhamhotels.com/days-inn/stockbridge-georgia/days-inn-suites-stockbridge-south-atlanta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1210136,33.6983047 ]
+    },
+    "properties": {
+    "address":"2980 Evans Mill Road , Lithonia, GA 30038 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Lithonia/Stone Mountain",
+    "url":"https://www.wyndhamhotels.com/microtel/lithonia-georgia/microtel-lithonia-stone-mountain/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5753954,33.5408539 ]
+    },
+    "properties": {
+    "address":"7882 Senoia Rd , Fairburn, GA 30213 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Atlanta Airport Fairburn",
+    "url":"https://www.wyndhamhotels.com/wingate/fairburn-georgia/wingate-by-wyndham-atlanta-airport-fairburn-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2334793,33.504244 ]
+    },
+    "properties": {
+    "address":"1451 Hudson Bridge Rd , Stockbridge, GA 30281-5017 US",
+    "category":15000,
+    "name":"Super 8 Stockbridge",
+    "url":"https://www.wyndhamhotels.com/super-8/stockbridge-georgia/super-8-stockbridge/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2245482,33.5055861 ]
+    },
+    "properties": {
+    "address":"195 Country Club Drive Exit 224 Off I-75, Stockbridge, GA 30281 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Stockbridge/Atlanta South",
+    "url":"https://www.wyndhamhotels.com/microtel/stockbridge-georgia/microtel-inn-and-suites-atlanta-stockbridge-eagles-landing/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5649489,30.8875944 ]
+    },
+    "properties": {
+    "address":"1407 Tallahassee Highway , Bainbridge, GA 39819 US",
+    "category":15000,
+    "name":"Days Inn Bainbridge",
+    "url":"https://www.wyndhamhotels.com/days-inn/bainbridge-georgia/days-inn-bainbridge/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5345204,30.8408862 ]
+    },
+    "properties": {
+    "address":"1401 Tallahassee Hwy , Bainbridge, GA 39819-7705 US",
+    "category":15000,
+    "name":"Howard Johnson Bainbridge South",
+    "url":"https://www.wyndhamhotels.com/hojo/bainbridge-georgia/howard-johnson-bainbridge-south-bainbridge-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4280489,30.4937491 ]
+    },
+    "properties": {
+    "address":"81 Commerce Boulevard , Midway, FL 32343 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Tallahassee/Midway",
+    "url":"https://www.wyndhamhotels.com/hojo/midway-florida/howard-johnson-inn-tallahassee-midway/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3160125,30.4859464 ]
+    },
+    "properties": {
+    "address":"3216 North Monroe Street , Tallahassee, FL 32303 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Tallahassee",
+    "url":"https://www.wyndhamhotels.com/microtel/tallahassee-florida/microtel-inn-and-suites-tallahassee/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3147395,30.4855116 ]
+    },
+    "properties": {
+    "address":"3210 North Monroe St. , Tallahassee, FL 32303 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Tallahassee",
+    "url":"https://www.wyndhamhotels.com/baymont/tallahassee-florida/baymont-inn-and-suites-tallahassee/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3032926,30.4812556 ]
+    },
+    "properties": {
+    "address":"2801 North Monroe Street , Tallahassee, FL 32303 US",
+    "category":15000,
+    "name":"Travelodge Inn & Suites Tallahassee North",
+    "url":"https://www.wyndhamhotels.com/travelodge/tallahassee-florida/travelodge-tallahassee-fl/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3014239,30.4784843 ]
+    },
+    "properties": {
+    "address":"2726 North Monroe Street , Tallahassee, FL 32303 US",
+    "category":15000,
+    "name":"Howard Johnson Express Inn - Tallahassee",
+    "url":"https://www.wyndhamhotels.com/hojo/tallahassee-florida/howard-johnson-express-inn-tallahassee/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3047168,30.448995 ]
+    },
+    "properties": {
+    "address":"1350 West Tennessee St/US 90 , Tallahassee, FL 32304 US",
+    "category":15000,
+    "name":"Days Inn Tallahassee University Center",
+    "url":"https://www.wyndhamhotels.com/days-inn/tallahassee-florida/days-inn-tallahassee-university-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9407538,33.6732322 ]
+    },
+    "properties": {
+    "address":"1659 Centennial Olympic Prkway , Conyers, GA 30013 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Conyers",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/conyers-georgia/hawthorn-suites-by-wyndham-conyers/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9627921,33.4737759 ]
+    },
+    "properties": {
+    "address":"640 Broad Street , Augusta, GA 30901 US",
+    "category":15000,
+    "name":"Ramada Augusta Downtown Hotel & Conference Center",
+    "url":"https://www.wyndhamhotels.com/ramada/augusta-georgia/ramada-augusta-conference-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0781243,33.4505458 ]
+    },
+    "properties": {
+    "address":"2137 Gordon Highway , Augusta, GA 30909-4474 US",
+    "category":15000,
+    "name":"Super 8 Augusta/Ft Gordon Area",
+    "url":"https://www.wyndhamhotels.com/super-8/augusta-georgia/super-8-augusta-ft-gordon-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.040555,33.510174 ]
+    },
+    "properties": {
+    "address":"210 Boy Scout Road , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Knights Inn Augusta",
+    "url":"https://www.wyndhamhotels.com/knights-inn/augusta-georgia/knights-inn-augusta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0352051,33.5244111 ]
+    },
+    "properties": {
+    "address":"2905 Riverwest Drive , Augusta, GA 30907 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Augusta Riverwatch",
+    "url":"https://www.wyndhamhotels.com/baymont/augusta-georgia/baymont-inn-and-suites-augusta-riverwatch/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0469343,33.5116228 ]
+    },
+    "properties": {
+    "address":"3026 Washington Rd , Augusta, GA 30907 US",
+    "category":15000,
+    "name":"Super 8 Augusta",
+    "url":"https://www.wyndhamhotels.com/super-8/augusta-georgia/super-8-augusta-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0358151,33.5251492 ]
+    },
+    "properties": {
+    "address":"2909 River West Dr , Augusta, GA 30907 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Augusta Riverwatch",
+    "url":"https://www.wyndhamhotels.com/microtel/augusta-georgia/microtel-inn-and-suites-augusta-riverwatch/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0493107,33.5137464 ]
+    },
+    "properties": {
+    "address":"3039 Washington Road , Augusta, GA 30907 US",
+    "category":15000,
+    "name":"Travelodge Augusta",
+    "url":"https://www.wyndhamhotels.com/travelodge/augusta-georgia/travelodge-augusta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0485634,33.4274885 ]
+    },
+    "properties": {
+    "address":"3054 Deans Bridge Rd , Augusta, GA 30906 US",
+    "category":15000,
+    "name":"Knights Inn Augusta Fort Gordon",
+    "url":"https://www.wyndhamhotels.com/knights-inn/augusta-georgia/knights-inn-augusta-fort-gordon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0785624,33.4490584 ]
+    },
+    "properties": {
+    "address":"2123 Noland Connector , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Augusta/Fort Gordon",
+    "url":"https://www.wyndhamhotels.com/wingate/augusta-georgia/wingate-by-wyndham-augusta-fort-gordon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0800635,33.4507199 ]
+    },
+    "properties": {
+    "address":"2155 Gordon Hwy , Augusta, GA 30909-4474 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Augusta Fort Gordon",
+    "url":"https://www.wyndhamhotels.com/baymont/augusta-georgia/baymont-inn-and-suites-augusta-fort-gordon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0808144,33.4486037 ]
+    },
+    "properties": {
+    "address":"2154 Gordon Highway , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Ramada Limited Augusta/Near Fort Gordon",
+    "url":"https://www.wyndhamhotels.com/ramada/augusta-georgia/ramada-limited-augusta-fort-gordon-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0872953,33.4939667 ]
+    },
+    "properties": {
+    "address":"629 Northwest Frontage Road , Augusta, GA 30907 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Augusta West",
+    "url":"https://www.wyndhamhotels.com/baymont/augusta-georgia/baymont-inn-and-suites-augusta-west/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0919029,33.4816254 ]
+    },
+    "properties": {
+    "address":"3654 Wheeler Road , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Days Inn Augusta Wheeler Road",
+    "url":"https://www.wyndhamhotels.com/days-inn/augusta-georgia/days-inn-augusta-wheeler-road/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1296392,33.4756072 ]
+    },
+    "properties": {
+    "address":"4045 Jimmie Dyess Parkway , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Augusta-Fort Gordon",
+    "url":"https://www.wyndhamhotels.com/hojo/augusta-georgia/howard-johnson-inn-augusta-fort-gordon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1298251,33.4762166 ]
+    },
+    "properties": {
+    "address":"4049 Jimmie Dyes Parkway , Augusta, GA 30909 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Augusta",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/augusta-georgia/hawthorn-suites-by-wyndham-augusta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1338468,33.4800534 ]
+    },
+    "properties": {
+    "address":"459 Park West Drive , Grovetown, GA 30813 US",
+    "category":15000,
+    "name":"Travelodge Inn & Suites Grovetown Augusta Area",
+    "url":"https://www.wyndhamhotels.com/travelodge/grovetown-georgia/travelodge-grovetown-augusta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1334644,33.4806202 ]
+    },
+    "properties": {
+    "address":"456 Parkwest Drive , Augusta, GA 30813 US",
+    "category":15000,
+    "name":"Super 8 Augusta Ft Gordon Belair",
+    "url":"https://www.wyndhamhotels.com/super-8/augusta-georgia/super-8-augusta-ft-gordon-belair/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.745577,33.565239 ]
+    },
+    "properties": {
+    "address":"1850 Richland Avenue West , Aiken, SC 29801 US",
+    "category":15000,
+    "name":"Knights Inn Aiken",
+    "url":"https://www.wyndhamhotels.com/knights-inn/aiken-south-carolina/knights-inn-aiken/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7342331,33.566351 ]
+    },
+    "properties": {
+    "address":"1204 Richland Avenue West , Aiken, SC 29801 US",
+    "category":15000,
+    "name":"Days Inn Downtown Aiken",
+    "url":"https://www.wyndhamhotels.com/days-inn/aiken-south-carolina/days-inn-downtown-aiken/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.717372,33.522193 ]
+    },
+    "properties": {
+    "address":"1936 Whiskey Road South , Aiken, SC 29803 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Aiken",
+    "url":"https://www.wyndhamhotels.com/hojo/aiken-south-carolina/howard-johnson-inn-aiken/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6726496,33.6636618 ]
+    },
+    "properties": {
+    "address":"2654 Columbia Hwy North , Aiken, SC 29805 US",
+    "category":15000,
+    "name":"Days Inn Aiken - Interstate Hwy 20",
+    "url":"https://www.wyndhamhotels.com/days-inn/aiken-south-carolina/days-inn-aiken-interstate-hwy-20/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1272427,34.4468244 ]
+    },
+    "properties": {
+    "address":"14227 Jones Street , Lavonia, GA 30553 US",
+    "category":15000,
+    "name":"Super 8 Lavonia",
+    "url":"https://www.wyndhamhotels.com/super-8/lavonia-georgia/super-8-lavonia/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1191037,34.4441726 ]
+    },
+    "properties": {
+    "address":"13705 Jones St , Lavonia, GA 30553-1168 US",
+    "category":15000,
+    "name":"Days Inn Lavonia",
+    "url":"https://www.wyndhamhotels.com/days-inn/lavonia-georgia/days-inn-lavonia/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0959792,34.2884324 ]
+    },
+    "properties": {
+    "address":"841 Hartwell Street , Royston, GA 30662-2401 US",
+    "category":15000,
+    "name":"Days Inn Royston",
+    "url":"https://www.wyndhamhotels.com/days-inn/royston-georgia/days-inn-royston/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9865665,34.6897898 ]
+    },
+    "properties": {
+    "address":"11015 North Radio Station Road , Seneca, SC 29678 US",
+    "category":15000,
+    "name":"Days Inn Seneca",
+    "url":"https://www.wyndhamhotels.com/days-inn/seneca-south-carolina/days-inn-seneca/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8006099,33.0027441 ]
+    },
+    "properties": {
+    "address":"128 Commerce Street , Sandersville, GA 31082-7553 US",
+    "category":15000,
+    "name":"Knights Inn Sandersville",
+    "url":"https://www.wyndhamhotels.com/knights-inn/sandersville-georgia/knights-inn-sandersville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0103518,33.6527707 ]
+    },
+    "properties": {
+    "address":"1412 Old McDonough Highway , Conyers, GA 30094 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Conyers Atlanta Area",
+    "url":"https://www.wyndhamhotels.com/microtel/conyers-georgia/microtel-inn-and-suites-atlanta-conyers/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4683846,34.4770072 ]
+    },
+    "properties": {
+    "address":"171 H. Mullins Court , Jasper, GA 30143 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Jasper",
+    "url":"https://www.wyndhamhotels.com/microtel/jasper-georgia/microtel-inn-and-suites-jasper/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.94875,30.8583573 ]
+    },
+    "properties": {
+    "address":"15375 US-19 , Thomasville, GA 31792 US",
+    "category":15000,
+    "name":"Days Inn Thomasville",
+    "url":"https://www.wyndhamhotels.com/days-inn/thomasville-georgia/days-inn-thomasville-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9471121,30.8523853 ]
+    },
+    "properties": {
+    "address":"1470 Remington Ave , Thomasville, GA 31792 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Thomasville",
+    "url":"https://www.wyndhamhotels.com/baymont/thomasville-georgia/baymont-inn-thomasville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0615974,32.3753528 ]
+    },
+    "properties": {
+    "address":"1225 South Lewis Street , Metter, GA 30439 US",
+    "category":15000,
+    "name":"Days Inn Metter",
+    "url":"https://www.wyndhamhotels.com/days-inn/metter-georgia/days-inn-metter/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7889119,32.4270827 ]
+    },
+    "properties": {
+    "address":"1 Jameson Avenue , Statesboro, GA 30458 US",
+    "category":15000,
+    "name":"Super 8 Statesboro",
+    "url":"https://www.wyndhamhotels.com/super-8/statesboro-georgia/super-8-statesboro-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7856807,32.4332666 ]
+    },
+    "properties": {
+    "address":"461 South Main Street , Statesboro, GA 30458-4900 US",
+    "category":15000,
+    "name":"Knights Inn Statesboro",
+    "url":"https://www.wyndhamhotels.com/knights-inn/statesboro-georgia/knights-inn-statesboro/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7790311,32.4321655 ]
+    },
+    "properties": {
+    "address":"616 Fair Road , Statesboro, GA 30458 US",
+    "category":15000,
+    "name":"Days Inn Statesboro",
+    "url":"https://www.wyndhamhotels.com/days-inn/statesboro-georgia/days-inn-statesboro-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7854243,32.4368455 ]
+    },
+    "properties": {
+    "address":"425 South Main Street , Statesboro, GA 30458 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Statesboro",
+    "url":"https://www.wyndhamhotels.com/baymont/statesboro-georgia/baymont-inn-and-suites-statesboro/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6725827,41.768328 ]
+    },
+    "properties": {
+    "address":"Not Available",
+    "category":15000,
+    "name":"TRYP by Wyndham Berlin am Ku Damm",
+    "url":"Not Available"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6725827,41.768328 ]
+    },
+    "properties": {
+    "address":"Not Available",
+    "category":15000,
+    "name":"TRYP by Wyndham Berlin City East",
+    "url":"Not Available"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8405001,33.6174869 ]
+    },
+    "properties": {
+    "address":"10166 Alcovy Rd , Covington, GA 30014 US",
+    "category":15000,
+    "name":"Days Inn Covington",
+    "url":"https://www.wyndhamhotels.com/days-inn/covington-georgia/days-inn-covington-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.841172,33.617016 ]
+    },
+    "properties": {
+    "address":"10130 Alcovy Road , Covington, GA 30014 US",
+    "category":15000,
+    "name":"Super 8 Covington",
+    "url":"https://www.wyndhamhotels.com/super-8/covington-georgia/super-8-covington-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8436138,33.6176464 ]
+    },
+    "properties": {
+    "address":"10111 Alcovy Road , Covington, GA 30014 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Covington",
+    "url":"https://www.wyndhamhotels.com/baymont/covington-georgia/baymont-inn-and-suites-covington/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8288955,33.6079654 ]
+    },
+    "properties": {
+    "address":"10225 Highway 142 N , Covington, GA 30014 US",
+    "category":15000,
+    "name":"Travelodge Covington",
+    "url":"https://www.wyndhamhotels.com/travelodge/covington-georgia/travelodge-covington/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4725269,33.55276 ]
+    },
+    "properties": {
+    "address":"2020 Eatonton Rd , Madison, GA 30650-5000 US",
+    "category":15000,
+    "name":"Days Inn Madison",
+    "url":"https://www.wyndhamhotels.com/days-inn/madison-georgia/days-inn-madison-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4737399,33.5506316 ]
+    },
+    "properties": {
+    "address":"2091 Eatonton Rd , Madison, GA 30650 US",
+    "category":15000,
+    "name":"Super 8 Madison",
+    "url":"https://www.wyndhamhotels.com/super-8/madison-georgia/super-8-madison-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0649841,35.0582151 ]
+    },
+    "properties": {
+    "address":"754 Highway 64 West , Murphy, NC 28906 US",
+    "category":15000,
+    "name":"Days Inn Murphy",
+    "url":"https://www.wyndhamhotels.com/days-inn/murphy-north-carolina/days-inn-murphy/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.234878,32.137515 ]
+    },
+    "properties": {
+    "address":"50 Sylvester C. Formey Drive , Savannah, GA 31408 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Savannah Airport",
+    "url":"https://www.wyndhamhotels.com/wingate/savannah-georgia/wingate-by-wyndham-savannah-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2400816,32.1092707 ]
+    },
+    "properties": {
+    "address":"301 Governor Treutlen Dr , Pooler, GA 31322 US",
+    "category":15000,
+    "name":"Ramada Pooler/Savannah",
+    "url":"https://www.wyndhamhotels.com/ramada/pooler-georgia/ramada-poolersavannah/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2361438,32.1100988 ]
+    },
+    "properties": {
+    "address":"125 Continental Boulevard , Pooler, GA 31322 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Pooler/Savannah",
+    "url":"https://www.wyndhamhotels.com/microtel/pooler-georgia/microtel-inn-and-suites-savannah-pooler/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.234848,32.1094831 ]
+    },
+    "properties": {
+    "address":"130 Continental Blvd , Pooler, GA 31322 US",
+    "category":15000,
+    "name":"Travelodge Suites Savannah Pooler",
+    "url":"https://www.wyndhamhotels.com/travelodge/pooler-georgia/travelodge-suites-savannah-pooler/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.187718,32.1196794 ]
+    },
+    "properties": {
+    "address":"2500 Dean Forest Road , Savannah, GA 31408 US",
+    "category":15000,
+    "name":"Days Inn Savannah Airport",
+    "url":"https://www.wyndhamhotels.com/days-inn/savannah-georgia/days-inn-savannah-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1949948,32.1948357 ]
+    },
+    "properties": {
+    "address":"7200 Highway 21 North , Port Wentworth, GA 31407 US",
+    "category":15000,
+    "name":"Super 8 Port Wentworth Savannah Area",
+    "url":"https://www.wyndhamhotels.com/super-8/port-wentworth-georgia/super-8-port-wentworth-savannah-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1942745,32.1937242 ]
+    },
+    "properties": {
+    "address":"105 Travelers Way , Port Wentworth, GA 31407 US",
+    "category":15000,
+    "name":"Days Inn & Suites - Savannah North I-95",
+    "url":"https://www.wyndhamhotels.com/days-inn/port-wentworth-georgia/days-inn-and-suites-savannah-north-i-95/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.194179,32.195725 ]
+    },
+    "properties": {
+    "address":"110 Travelers Way , Port Wentworth, GA 31407-9217 US",
+    "category":15000,
+    "name":"Travelodge Port Wentworth Savannah Area",
+    "url":"https://www.wyndhamhotels.com/travelodge/port-wentworth-georgia/travelodge-port-wentworth-savannah-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1460868,32.1065214 ]
+    },
+    "properties": {
+    "address":"357 Main Street , Savannah, GA 31418 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Savannah/Garden City",
+    "url":"https://www.wyndhamhotels.com/baymont/savannah-georgia/baymont-inn-and-suites-savannah-garden-city/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1529412,31.9838063 ]
+    },
+    "properties": {
+    "address":"11750 Abercorn Street , Savannah, GA 31419 US",
+    "category":15000,
+    "name":"Days Inn Savannah - Abercorn Southside",
+    "url":"https://www.wyndhamhotels.com/days-inn/savannah-georgia/days-inn-savannah-abercorn-southside/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.112741,32.0205273 ]
+    },
+    "properties": {
+    "address":"2 Lee Boulevard , Savannah, GA 31405 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Savannah Midtown",
+    "url":"https://www.wyndhamhotels.com/baymont/savannah-georgia/baymont-inn-and-suites-savannah-midtown/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.110064,32.011874 ]
+    },
+    "properties": {
+    "address":"211 Stephenson Avenue , Savannah, GA 31405 US",
+    "category":15000,
+    "name":"Days Inn & Suites Savannah Midtown",
+    "url":"https://www.wyndhamhotels.com/days-inn/savannah-georgia/days-inn-savannah-midtown/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0819168,32.2703256 ]
+    },
+    "properties": {
+    "address":"16633 Whyte Hardee Boulevard , Hardeeville, SC 29927 US",
+    "category":15000,
+    "name":"Days Inn Hardeeville Interstate Highway 95 State Line",
+    "url":"https://www.wyndhamhotels.com/days-inn/hardeeville-south-carolina/days-inn-hardeeville-interstate-highway-95-state-line/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0823433,32.2783714 ]
+    },
+    "properties": {
+    "address":"19289 Whyte Hardee Boulevard , Hardeeville, SC 29927 US",
+    "category":15000,
+    "name":"Super 8 Hardeeville",
+    "url":"https://www.wyndhamhotels.com/super-8/hardeeville-south-carolina/super-8-hardeeville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0796291,32.2755295 ]
+    },
+    "properties": {
+    "address":"18116 Whyte Hardee Blvd , Hardeeville, SC 29927-6446 US",
+    "category":15000,
+    "name":"Travelodge Hardeeville",
+    "url":"https://www.wyndhamhotels.com/travelodge/hardeeville-south-carolina/travelodge-hardeeville-sc/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0825208,32.2791375 ]
+    },
+    "properties": {
+    "address":"19527 Whyte Hardee Boulevard , Hardeeville, SC 29927 US",
+    "category":15000,
+    "name":"Knights Inn Hardeeville",
+    "url":"https://www.wyndhamhotels.com/knights-inn/hardeeville-south-carolina/knights-inn-hardeeville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1817199,33.4291094 ]
+    },
+    "properties": {
+    "address":"1170 Hampton Road , McDonough, GA 30253 US",
+    "category":15000,
+    "name":"Super 8 McDonough",
+    "url":"https://www.wyndhamhotels.com/super-8/mcdonough-georgia/super8-mcdonough/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1791313,33.4273323 ]
+    },
+    "properties": {
+    "address":"1171 Highway 20-81 West , McDonough, GA 30253 US",
+    "category":15000,
+    "name":"Howard Johnson McDonough GA",
+    "url":"https://www.wyndhamhotels.com/hojo/mcdonough-georgia/howard-johnson-mcdonough-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.178403,33.4267804 ]
+    },
+    "properties": {
+    "address":"855 Industrial Boulevard , McDonough, GA 30253-6616 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites McDonough",
+    "url":"https://www.wyndhamhotels.com/baymont/mcdonough-georgia/baymont-inn-suites-mcdonough/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.568171,33.373008 ]
+    },
+    "properties": {
+    "address":"976 Crosstown Drive , Peachtree City, GA 30269-2925 US",
+    "category":15000,
+    "name":"Days Inn & Suites Peachtree City",
+    "url":"https://www.wyndhamhotels.com/days-inn/peachtree-city-georgia/days-inn-peachtree-city/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8900588,30.4718801 ]
+    },
+    "properties": {
+    "address":"44 Woodworth Drive , Monticello, FL 32336 US",
+    "category":15000,
+    "name":"Days Inn Lamont/Monticello",
+    "url":"https://www.wyndhamhotels.com/days-inn/monticello-florida/days-inn-lamont-monticello/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.891574,30.474247 ]
+    },
+    "properties": {
+    "address":"140 Pafford Road , Monticello, FL 32336 US",
+    "category":15000,
+    "name":"Super 8 Monticello",
+    "url":"https://www.wyndhamhotels.com/super-8/monticello-florida/super-8-monticello-fl/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.295305,33.766394 ]
+    },
+    "properties": {
+    "address":"788 Georgia Highway 100 South , Tallapoosa, GA 30176 US",
+    "category":15000,
+    "name":"Super 8 Tallapoosa",
+    "url":"https://www.wyndhamhotels.com/super-8/tallapoosa-georgia/super-8-tallapoosa/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0765901,33.5645576 ]
+    },
+    "properties": {
+    "address":"901 South Park Street , Carrollton, GA 30117 US",
+    "category":15000,
+    "name":"Super 8 Carrollton GA",
+    "url":"https://www.wyndhamhotels.com/super-8/carrollton-georgia/super-8-carrollton-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1529579,33.6871861 ]
+    },
+    "properties": {
+    "address":"104 Price Creek Road , Bremen, GA 30110 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Bremen",
+    "url":"https://www.wyndhamhotels.com/microtel/bremen-georgia/microtel-inn-and-suites-bremen/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7810467,33.3299671 ]
+    },
+    "properties": {
+    "address":"1455 Highway 29 South , Newnan, GA 30263 US",
+    "category":15000,
+    "name":"Super 8 Newnan",
+    "url":"https://www.wyndhamhotels.com/super-8/newnan-georgia/super-8-newnan/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4954565,31.2183878 ]
+    },
+    "properties": {
+    "address":"105 Center Drive , Brunswick, GA 31520 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Brunswick GA",
+    "url":"https://www.wyndhamhotels.com/baymont/brunswick-georgia/baymont-inn-brunswick-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5211652,31.2179129 ]
+    },
+    "properties": {
+    "address":"5033 New Jesup Hwy I-95 US 341 And I-95, Exit 36A, Brunswick, GA 31525 US",
+    "category":15000,
+    "name":"Days Inn Brunswick/St. Simons Area",
+    "url":"https://www.wyndhamhotels.com/days-inn/brunswick-georgia/days-inn-brunswick/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5820988,31.1394128 ]
+    },
+    "properties": {
+    "address":"211 Palisade Dr I-95 - Exit 29 - US 17, Brunswick, GA 31520 US",
+    "category":15000,
+    "name":"Super 8 Brunswick/South",
+    "url":"https://www.wyndhamhotels.com/super-8/brunswick-georgia/super-8-brunswick-south/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5240946,31.223325 ]
+    },
+    "properties": {
+    "address":"5280 New Jesup Hwy , Brunswick, GA 31520 US",
+    "category":15000,
+    "name":"Super 8 Brunswick/St Simons Island Area",
+    "url":"https://www.wyndhamhotels.com/super-8/brunswick-georgia/super-8-brunswick-st-simons-island-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5237031,31.2241079 ]
+    },
+    "properties": {
+    "address":"15 Wammock Ct , Brunswick, GA 31523 US",
+    "category":15000,
+    "name":"Travelodge Brunswick",
+    "url":"https://www.wyndhamhotels.com/travelodge/brunswick-georgia/travelodge-brunswick-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5005386,31.2387139 ]
+    },
+    "properties": {
+    "address":"146 Gateway Center Blvd , Brunswick, GA 31525 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Brunswick North",
+    "url":"https://www.wyndhamhotels.com/microtel/brunswick-georgia/microtel-inn-and-suites-brunswick-north/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.412703,31.0429692 ]
+    },
+    "properties": {
+    "address":"60 South Beachview Drive , Jekyll Island, GA 31527 US",
+    "category":15000,
+    "name":"Days Inn & Suites Jekyll Island",
+    "url":"https://www.wyndhamhotels.com/days-inn/jekyll-island-georgia/days-inn-and-suites-jekyll-island/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4517703,31.4007175 ]
+    },
+    "properties": {
+    "address":"12905 GA Highway 251 , Darien, GA 31305 US",
+    "category":15000,
+    "name":"Super 8 Darien",
+    "url":"https://www.wyndhamhotels.com/super-8/darien-georgia/super-8-darien/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4513496,31.4005273 ]
+    },
+    "properties": {
+    "address":"12885 GA Highway 251 , Darien, GA 31305 US",
+    "category":15000,
+    "name":"Days Inn Darien",
+    "url":"https://www.wyndhamhotels.com/days-inn/darien-georgia/days-inn-darien/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.882038,32.5578592 ]
+    },
+    "properties": {
+    "address":"300 Commercial Heights , Fort Valley, GA 31030 US",
+    "category":15000,
+    "name":"Days Inn and Suites Fort Valley",
+    "url":"https://www.wyndhamhotels.com/days-inn/fort-valley-georgia/days-inn-and-suites-fort-valley/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7587134,32.4348117 ]
+    },
+    "properties": {
+    "address":"110 Fairview Drive , Perry, GA 31069 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Perry",
+    "url":"https://www.wyndhamhotels.com/microtel/perry-georgia/microtel-inn-and-suites-perry/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.751817,32.4483979 ]
+    },
+    "properties": {
+    "address":"100 Westview Lane I-75, Exit 135, Perry, GA 31069 US",
+    "category":15000,
+    "name":"Travelodge Perry GA",
+    "url":"https://www.wyndhamhotels.com/travelodge/perry-georgia/travelodge-perry-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7423716,32.4682334 ]
+    },
+    "properties": {
+    "address":"100 Marketplace Drive , Perry, GA 31069 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Perry GA",
+    "url":"https://www.wyndhamhotels.com/hojo/perry-georgia/howard-johnson-inn-perry-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7461084,32.4703891 ]
+    },
+    "properties": {
+    "address":"200 Valley Dr. Building A , Perry, GA 31069-2433 US",
+    "category":15000,
+    "name":"Days Inn Perry Near Fairgrounds",
+    "url":"https://www.wyndhamhotels.com/days-inn/perry-georgia/days-inn-perry-near-fairgrounds/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7461084,32.4703891 ]
+    },
+    "properties": {
+    "address":"200 Valley Drive , Perry, GA 31069 US",
+    "category":15000,
+    "name":"Ramada Perry Near Fairgrounds",
+    "url":"https://www.wyndhamhotels.com/ramada/perry-georgia/ramada-perry-hotel-and-conference-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7454497,32.4750049 ]
+    },
+    "properties": {
+    "address":"704 Mason Terrace , Perry, GA 31069 US",
+    "category":15000,
+    "name":"Knights Inn Perry",
+    "url":"https://www.wyndhamhotels.com/knights-inn/perry-georgia/knights-inn-perry/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7460581,32.6574436 ]
+    },
+    "properties": {
+    "address":"246 North Hwy 49 , Byron, GA 31008 US",
+    "category":15000,
+    "name":"Days Inn Byron",
+    "url":"https://www.wyndhamhotels.com/days-inn/byron-georgia/days-inn-byron/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7423147,32.6614429 ]
+    },
+    "properties": {
+    "address":"305 Hwy 49 North , Byron, GA 31008 US",
+    "category":15000,
+    "name":"Super 8 Byron/South Macon",
+    "url":"https://www.wyndhamhotels.com/super-8/byron-georgia/super-8-byron-south-macon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.69937,32.61487 ]
+    },
+    "properties": {
+    "address":"4031 Watson Blvd , Warner Robins, GA 31093 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Warner Robins",
+    "url":"https://www.wyndhamhotels.com/wingate/warner-robins-georgia/wingate-by-wyndham-warner-robins/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6749092,32.6176926 ]
+    },
+    "properties": {
+    "address":"2739 Watson Boulevard , Warner Robins, GA 31093 US",
+    "category":15000,
+    "name":"Days Inn & Suites Warner Robins Near Robins AFB",
+    "url":"https://www.wyndhamhotels.com/days-inn/warner-robins-georgia/days-inn-warner-robins-near-robins-afb/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6743604,32.6177782 ]
+    },
+    "properties": {
+    "address":"2731 Watson Boulevard , Warner Robins, GA 31093 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Warner Robins",
+    "url":"https://www.wyndhamhotels.com/baymont/warner-robins-georgia/baymont-inn-and-suites-warner-robins-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7231357,32.8100413 ]
+    },
+    "properties": {
+    "address":"4765 Chambers Road , Macon, GA 31206 US",
+    "category":15000,
+    "name":"Super 8 Macon West",
+    "url":"https://www.wyndhamhotels.com/super-8/macon-georgia/super-8-macon-west-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.723562,32.8091514 ]
+    },
+    "properties": {
+    "address":"4755 Chambers Rd. , Macon, GA 31206 US",
+    "category":15000,
+    "name":"Ramada Macon",
+    "url":"https://www.wyndhamhotels.com/ramada/macon-georgia/ramada-macon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7199526,32.811769 ]
+    },
+    "properties": {
+    "address":"4999 Eisenhower Parkway , Macon, GA 31206-4196 US",
+    "category":15000,
+    "name":"Days Inn Macon I-475",
+    "url":"https://www.wyndhamhotels.com/days-inn/macon-georgia/days-inn-macon-south-west/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7653833,32.8788486 ]
+    },
+    "properties": {
+    "address":"150 Plantation Inn Dr I-475 E9 , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Macon / Plantation Dr",
+    "url":"https://www.wyndhamhotels.com/baymont/macon-georgia/baymont-inn-and-suites-macon-plantation-dr/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.661367,32.87102 ]
+    },
+    "properties": {
+    "address":"2566 Riverside Drive , Macon, GA 31204 US",
+    "category":15000,
+    "name":"Howard Johnson Macon",
+    "url":"https://www.wyndhamhotels.com/hojo/macon-georgia/howard-johnson-macon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6867002,32.8994444 ]
+    },
+    "properties": {
+    "address":"3680 Riverside Drive , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Macon/ Riverside Drive",
+    "url":"https://www.wyndhamhotels.com/baymont/macon-georgia/baymont-inn-and-suites-macon-riverside-drive/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6884823,32.9021353 ]
+    },
+    "properties": {
+    "address":"3850 Riverside Dr , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Travelodge Macon North",
+    "url":"https://www.wyndhamhotels.com/travelodge/macon-georgia/travelodge-macon-north/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6914673,32.9049848 ]
+    },
+    "properties": {
+    "address":"100 Northcrest Blvd , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Macon",
+    "url":"https://www.wyndhamhotels.com/wingate/macon-georgia/wingate-by-wyndham-macon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7271287,32.9250241 ]
+    },
+    "properties": {
+    "address":"2020 Bowman Park , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Macon",
+    "url":"https://www.wyndhamhotels.com/microtel/macon-georgia/microtel-inn-and-suites-macon/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9983447,34.759908 ]
+    },
+    "properties": {
+    "address":"911 Market St , Dalton, GA 30720-5049 US",
+    "category":15000,
+    "name":"Super 8 Dalton",
+    "url":"https://www.wyndhamhotels.com/super-8/dalton-georgia/super-8-dalton-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9974061,34.7611246 ]
+    },
+    "properties": {
+    "address":"1518 West Walnut Ave , Dalton, GA 30720 US",
+    "category":15000,
+    "name":"Days Inn Dalton",
+    "url":"https://www.wyndhamhotels.com/days-inn/dalton-georgia/days-inn-dalton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0039619,34.7633859 ]
+    },
+    "properties": {
+    "address":"869 College Drive , Dalton, GA 30720 US",
+    "category":15000,
+    "name":"Super 8 Dalton/Convention Center Area",
+    "url":"https://www.wyndhamhotels.com/super-8/dalton-georgia/super8-dalton-convention-center-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0046409,34.7651142 ]
+    },
+    "properties": {
+    "address":"790 College Drive , Dalton, GA 30720 US",
+    "category":15000,
+    "name":"Howard Johnson Dalton",
+    "url":"https://www.wyndhamhotels.com/hojo/dalton-georgia/howard-johnson-dalton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0029676,34.7951742 ]
+    },
+    "properties": {
+    "address":"2106 Chattanooga Road , Dalton, GA 30720 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Dalton",
+    "url":"https://www.wyndhamhotels.com/baymont/dalton-georgia/baymont-inn-and-suites-dalton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7703112,34.7591114 ]
+    },
+    "properties": {
+    "address":"613 South 3rd Ave , Chatsworth, GA 30705-2953 US",
+    "category":15000,
+    "name":"Super 8 Chatsworth/Dalton",
+    "url":"https://www.wyndhamhotels.com/super-8/chatsworth-georgia/super-8-chatsworthdalton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.260214,30.4356817 ]
+    },
+    "properties": {
+    "address":"1355 Apalachee Parkway , Tallahassee, FL 32301-3001 US",
+    "category":15000,
+    "name":"Wyndham Garden Tallahassee Capitol",
+    "url":"https://www.wyndhamhotels.com/wyndham-garden/tallahassee-florida/wyndham-garden-tallahassee-capitol/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.234284,30.427868 ]
+    },
+    "properties": {
+    "address":"2850 Apalachee Parkway , Tallahassee, FL 32301 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Tallahassee Central",
+    "url":"https://www.wyndhamhotels.com/baymont/tallahassee-florida/baymont-inn-and-suites-tallahassee-central/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2257685,30.427524 ]
+    },
+    "properties": {
+    "address":"3100 Apalachee Parkway , Tallahassee, FL 32301 US",
+    "category":15000,
+    "name":"Days Inn Tallahassee-Government Center",
+    "url":"https://www.wyndhamhotels.com/days-inn/tallahassee-florida/days-inn-tallahassee-government-center/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7047053,34.1573766 ]
+    },
+    "properties": {
+    "address":"1585 West Main Street , Centre, AL 35960 US",
+    "category":15000,
+    "name":"Days Inn Of Centre",
+    "url":"https://www.wyndhamhotels.com/days-inn/centre-alabama/days-inn-of-centre/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4043406,31.1902636 ]
+    },
+    "properties": {
+    "address":"2215 Ross Clark Circle Hwy 231 S. and 231 Bypass, Dothan, AL 36301-5059 US",
+    "category":15000,
+    "name":"Super 8 Dothan",
+    "url":"https://www.wyndhamhotels.com/super-8/dothan-alabama/super-8-dothan/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4068882,31.1933605 ]
+    },
+    "properties": {
+    "address":"2244 Ross Clark Circle , Dothan, AL 36301 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Dothan",
+    "url":"https://www.wyndhamhotels.com/hojo/dothan-alabama/howard-johnson-inn-dothan/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4331871,31.2269216 ]
+    },
+    "properties": {
+    "address":"3071 Ross Clark Circle , Dothan, AL 36301 US",
+    "category":15000,
+    "name":"Days Inn Dothan",
+    "url":"https://www.wyndhamhotels.com/days-inn/dothan-alabama/days-inn-dothan/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9731006,33.0404039 ]
+    },
+    "properties": {
+    "address":"107 Hoffman Drive , LaGrange, GA 30241-3694 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites LaGrange",
+    "url":"https://www.wyndhamhotels.com/baymont/lagrange-georgia/baymont-inn-and-suites-lagrange/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9640941,33.0425044 ]
+    },
+    "properties": {
+    "address":"103 Wingate Terrace , LaGrange, GA 30241 US",
+    "category":15000,
+    "name":"Wingate by Wyndham LaGrange",
+    "url":"https://www.wyndhamhotels.com/wingate/lagrange-georgia/wingate-by-wyndham-lagrange-callaway/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1255483,34.9131741 ]
+    },
+    "properties": {
+    "address":"5400 Alabama Highway , Ringgold, GA 30736 US",
+    "category":15000,
+    "name":"Super 8 Ringgold",
+    "url":"https://www.wyndhamhotels.com/super-8/ringgold-georgia/super-8-ringgold/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2587069,34.9600508 ]
+    },
+    "properties": {
+    "address":"2044 Lafayette Road , Fort Oglethorpe, GA 30742 US",
+    "category":15000,
+    "name":"Super 8 Ft. Oglethorpe GA/Chatt TN Area",
+    "url":"https://www.wyndhamhotels.com/super-8/fort-oglethorpe-georgia/super-8-ft-oglethorpe-ga-chatt-tn-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3814596,35.0169992 ]
+    },
+    "properties": {
+    "address":"20 Birmingham Hwy , Chattanooga, TN 37419-2371 US",
+    "category":15000,
+    "name":"Super 8 Chattanooga Lookout Mountain TN",
+    "url":"https://www.wyndhamhotels.com/super-8/chattanooga-tennessee/super-8-chattanooga-lookout-mountain-tn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3782458,35.0188381 ]
+    },
+    "properties": {
+    "address":"3655 Cummings Hwy , Chattanooga, TN 37419 US",
+    "category":15000,
+    "name":"Knights Inn Chattanooga",
+    "url":"https://www.wyndhamhotels.com/knights-inn/chattanooga-tennessee/knights-inn-chattanooga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3845039,35.0196586 ]
+    },
+    "properties": {
+    "address":"3801 Cummings Hwy , Chattanooga, TN 37419-2201 US",
+    "category":15000,
+    "name":"Days Inn Chattanooga Lookout Mountain West",
+    "url":"https://www.wyndhamhotels.com/days-inn/chattanooga-tennessee/days-inn-chattanooga-lookout-mountain-west/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3625858,35.0261558 ]
+    },
+    "properties": {
+    "address":"3109 Parker Lane , Chattanooga, TN 37419 US",
+    "category":15000,
+    "name":"Howard Johnson Chattanooga Lookout Mountain",
+    "url":"https://www.wyndhamhotels.com/hojo/chattanooga-tennessee/howard-johnson-chattanooga-lookout-mountain/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3124419,35.0452713 ]
+    },
+    "properties": {
+    "address":"901 Carter Street I-24 And US 27 North, Chattanooga, TN 37402 US",
+    "category":15000,
+    "name":"Days Inn Chattanooga-Rivergate",
+    "url":"https://www.wyndhamhotels.com/days-inn/chattanooga-tennessee/days-inn-chattanooga-rivergate/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2063607,34.9909356 ]
+    },
+    "properties": {
+    "address":"6519 Ringgold Rd , Chattanooga, TN 37412 US",
+    "category":15000,
+    "name":"Super 8 Chattanooga/East Ridge",
+    "url":"https://www.wyndhamhotels.com/super-8/chattanooga-tennessee/super-8-chattanooga-east-ridge/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5150515,34.8683047 ]
+    },
+    "properties": {
+    "address":"95 Killian Avenue , Trenton, GA 30752 US",
+    "category":15000,
+    "name":"Days Inn Trenton",
+    "url":"https://www.wyndhamhotels.com/days-inn/trenton-georgia/days-inn-trenton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1575491,35.0458443 ]
+    },
+    "properties": {
+    "address":"7014 McCutcheon Road , Chattanooga, TN 37421 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Chattanooga/Near Hamilton P",
+    "url":"https://www.wyndhamhotels.com/microtel/chattanooga-tennessee/microtel-inn-chattanooga-hamilton-place/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1528238,35.0403193 ]
+    },
+    "properties": {
+    "address":"7312 Shallowford Rd , Chattanooga, TN 37421 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Chattanooga",
+    "url":"https://www.wyndhamhotels.com/wingate/chattanooga-tennessee/wingate-by-wyndham-chattanooga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1562334,35.0460928 ]
+    },
+    "properties": {
+    "address":"7024 McCutcheon Road , Chattanooga, TN 37421 US",
+    "category":15000,
+    "name":"Super 8 Chattanooga/Hamilton Place",
+    "url":"https://www.wyndhamhotels.com/super-8/chattanooga-tennessee/super-8-chattanooga-hamilton-place/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1554021,35.0460288 ]
+    },
+    "properties": {
+    "address":"2361 Shallowford Village Dr , Chattanooga, TN 37421 US",
+    "category":15000,
+    "name":"Travelodge Chattanooga/Hamilton Place",
+    "url":"https://www.wyndhamhotels.com/travelodge/chattanooga-tennessee/travelodge-chattanooga-hamilton-place/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1543702,35.0455359 ]
+    },
+    "properties": {
+    "address":"2350 Shallowford Village Dr , Chattanooga, TN 37421-6768 US",
+    "category":15000,
+    "name":"Days Inn Chattanooga/Hamilton Place",
+    "url":"https://www.wyndhamhotels.com/days-inn/chattanooga-tennessee/days-inn-chattanooga-hamilton-place/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0711134,35.0867888 ]
+    },
+    "properties": {
+    "address":"8934 Lee Highway , Ooltewah, TN 37363-8752 US",
+    "category":15000,
+    "name":"Super 8 Chattanooga Ooltewah",
+    "url":"https://www.wyndhamhotels.com/super-8/ooltewah-tennessee/super-8-chattanooga-ooltewah/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6826637,35.0440484 ]
+    },
+    "properties": {
+    "address":"395 Main Street , Kimball, TN 37347 US",
+    "category":15000,
+    "name":"Super 8 Kimball",
+    "url":"https://www.wyndhamhotels.com/super-8/kimball-tennessee/super-8-kimball-tn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3969737,34.8784646 ]
+    },
+    "properties": {
+    "address":"54 Hwy 441 North , Clayton, GA 30525 US",
+    "category":15000,
+    "name":"Days Inn Clayton",
+    "url":"https://www.wyndhamhotels.com/days-inn/clayton-georgia/days-inn-clayton/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3844569,34.97389 ]
+    },
+    "properties": {
+    "address":"3 Best Inn Way , Dillard, GA 30537 US",
+    "category":15000,
+    "name":"Knights Inn Dillard",
+    "url":"https://www.wyndhamhotels.com/knights-inn/dillard-georgia/knights-inn-dillard/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.390375,35.1621689 ]
+    },
+    "properties": {
+    "address":"81 Allman Drive , Franklin, NC 28734 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Franklin",
+    "url":"https://www.wyndhamhotels.com/microtel/franklin-north-carolina/microtel-inn-franklin/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8867782,35.1875633 ]
+    },
+    "properties": {
+    "address":"2421 Georgetown Rd , Cleveland, TN 37311 US",
+    "category":15000,
+    "name":"Knights Inn Cleveland",
+    "url":"https://www.wyndhamhotels.com/knights-inn/cleveland-tennessee/knights-inn-cleveland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8854982,35.1892507 ]
+    },
+    "properties": {
+    "address":"2550 Georgetown Road , Cleveland, TN 37311 US",
+    "category":15000,
+    "name":"Days Inn Cleveland TN",
+    "url":"https://www.wyndhamhotels.com/days-inn/cleveland-tennessee/days-inn-cleveland-tn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8858709,35.1907994 ]
+    },
+    "properties": {
+    "address":"2595 Georgetown Rd. , Cleveland, TN 37311 US",
+    "category":15000,
+    "name":"Howard Johnson Inn Cleveland",
+    "url":"https://www.wyndhamhotels.com/hojo/cleveland-tennessee/howard-johnson-inn-cleveland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8905294,35.1934156 ]
+    },
+    "properties": {
+    "address":"110 Interstate Drive NW , Cleveland, TN 37312 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Cleveland",
+    "url":"https://www.wyndhamhotels.com/wingate/cleveland-tennessee/wingate-by-wyndham-cleveland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.870765,35.2111601 ]
+    },
+    "properties": {
+    "address":"163 Bernham Drive , Cleveland, TN 37312 US",
+    "category":15000,
+    "name":"Super 8 Cleveland",
+    "url":"https://www.wyndhamhotels.com/super-8/cleveland-tennessee/super-8-cleveland-tn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8626619,35.2113047 ]
+    },
+    "properties": {
+    "address":"360 Paul Huff Parkway , Cleveland, TN 37312 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Cleveland",
+    "url":"https://www.wyndhamhotels.com/baymont/cleveland-tennessee/baymont-inn-cleveland-tn/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1528405,31.8733101 ]
+    },
+    "properties": {
+    "address":"1521 South Eufaula Avenue , Eufaula, AL 36027 US",
+    "category":15000,
+    "name":"Days Inn Eufaula AL",
+    "url":"https://www.wyndhamhotels.com/days-inn/eufaula-alabama/days-inn-eufaula-al/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1513442,31.8750914 ]
+    },
+    "properties": {
+    "address":"1375 South Eufaula Avenue , Eufaula, AL 36027 US",
+    "category":15000,
+    "name":"Super 8 Eufaula",
+    "url":"https://www.wyndhamhotels.com/super-8/eufaula-alabama/super-8-eufaula/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1506606,31.8780843 ]
+    },
+    "properties": {
+    "address":"136 Town Center Boulevard , Eufaula, AL 36027 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Eufaula",
+    "url":"https://www.wyndhamhotels.com/baymont/eufaula-alabama/baymont-inn-eufaula/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9883185,32.46527 ]
+    },
+    "properties": {
+    "address":"1011 Veterans Parkway , Columbus, GA 31901 US",
+    "category":15000,
+    "name":"Howard Johnson Inn & Suites Columbus GA",
+    "url":"https://www.wyndhamhotels.com/hojo/columbus-georgia/howard-johnson-inn-and-suites-columbus-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.023759,32.463942 ]
+    },
+    "properties": {
+    "address":"905A East 280 Bypass , Phenix City, AL 36867 US",
+    "category":15000,
+    "name":"Super 8 Phenix City",
+    "url":"https://www.wyndhamhotels.com/super-8/phenix-city-alabama/super-8-phenix-city/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.937878,32.482858 ]
+    },
+    "properties": {
+    "address":"3452 Macon Road , Columbus, GA 31907 US",
+    "category":15000,
+    "name":"Days Inn Columbus-North Fort Benning",
+    "url":"https://www.wyndhamhotels.com/days-inn/columbus-georgia/days-inn-columbus-north-fort-benning/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9475291,32.5054202 ]
+    },
+    "properties": {
+    "address":"2935 Warm Springs Rd , Columbus, GA 31909-5248 US",
+    "category":15000,
+    "name":"Super 8 Columbus Airport",
+    "url":"https://www.wyndhamhotels.com/super-8/columbus-georgia/super-8-columbus-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.926329,32.445136 ]
+    },
+    "properties": {
+    "address":"3930 St. Marys Road , Columbus, GA 31907 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Columbus/Near Fort Benning",
+    "url":"https://www.wyndhamhotels.com/microtel/columbus-georgia/microtel-inn-and-suites-columbus-ft-benning/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9464133,32.4182439 ]
+    },
+    "properties": {
+    "address":"3662 Victory Drive , Columbus, GA 31903 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Columbus Fort Benning",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/columbus-georgia/hawthorn-suites-columbus-fort-benning/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0419443,32.4963248 ]
+    },
+    "properties": {
+    "address":"3560 US Highway 431 North , Phenix City, AL 36867 US",
+    "category":15000,
+    "name":"Days Inn Phenix City Near Fort Benning",
+    "url":"https://www.wyndhamhotels.com/days-inn/phenix-city-alabama/days-inn-phenix-city-near-fort-benning/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9714042,32.5361839 ]
+    },
+    "properties": {
+    "address":"1711 Rollins Way , Columbus, GA 31904 US",
+    "category":15000,
+    "name":"Wingate by Wyndham Columbus / Fort Benning",
+    "url":"https://www.wyndhamhotels.com/wingate/columbus-georgia/wingate-by-wyndham-columbus-fort-benning/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9648537,32.5675254 ]
+    },
+    "properties": {
+    "address":"1728 Fountain Court , Columbus, GA 31904 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Columbus North",
+    "url":"https://www.wyndhamhotels.com/microtel/columbus-georgia/microtel-inn-and-suites-columbus-north/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3496541,32.6429025 ]
+    },
+    "properties": {
+    "address":"1014 Anand Avenue , Opelika, AL 36804 US",
+    "category":15000,
+    "name":"Days Inn Opelika",
+    "url":"https://www.wyndhamhotels.com/days-inn/opelika-alabama/days-inn-opelika/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2578422,33.1147083 ]
+    },
+    "properties": {
+    "address":"2551 North Columbia Street , Milledgeville, GA 31061 US",
+    "category":15000,
+    "name":"Days Inn Milledgeville",
+    "url":"https://www.wyndhamhotels.com/days-inn/milledgeville-georgia/days-inn-milledgeville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5494067,33.0048353 ]
+    },
+    "properties": {
+    "address":"288 West Clinton Street , Gray, GA 31032 US",
+    "category":15000,
+    "name":"Days Inn Gray",
+    "url":"https://www.wyndhamhotels.com/days-inn/gray-georgia/days-inn-gray/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7653833,32.8788486 ]
+    },
+    "properties": {
+    "address":"150 Plantation Inn Dr I-475 E9 , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Macon I-475",
+    "url":"https://www.wyndhamhotels.com/baymont/macon-georgia/baymont-inn-and-suites-macon-plantation-dr/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6867002,32.8994444 ]
+    },
+    "properties": {
+    "address":"3680 Riverside Drive , Macon, GA 31210 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Macon I-75",
+    "url":"https://www.wyndhamhotels.com/baymont/macon-georgia/baymont-inn-and-suites-macon-riverside-drive/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2263472,30.6811818 ]
+    },
+    "properties": {
+    "address":"4912 Timber Drive , Lake Park, GA 31636 US",
+    "category":15000,
+    "name":"Travelodge Lake Park Valdosta",
+    "url":"https://www.wyndhamhotels.com/travelodge/lake-park-georgia/travelodge-lake-park-valdasta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2274017,30.6804477 ]
+    },
+    "properties": {
+    "address":"4913 Timber Drive , Lake Park, GA 31636 US",
+    "category":15000,
+    "name":"Days Inn Lake Park/Valdosta",
+    "url":"https://www.wyndhamhotels.com/days-inn/lake-park-georgia/days-inn-lake-park-valdosta/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7307527,32.1779164 ]
+    },
+    "properties": {
+    "address":"9 Marina Side Drive , Hilton Head Island, SC 29928 US",
+    "category":15000,
+    "name":"Days Inn Hilton Head",
+    "url":"https://www.wyndhamhotels.com/days-inn/hilton-head-island-south-carolina/days-inn-hilton-head/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7285433,32.2138059 ]
+    },
+    "properties": {
+    "address":"200 Museum Street , Hilton Head, SC 29926-1341 US",
+    "category":15000,
+    "name":"Ramada Hilton Head",
+    "url":"https://www.wyndhamhotels.com/ramada/hilton-head-south-carolina/ramada-hiltion-head/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6623835,30.7898558 ]
+    },
+    "properties": {
+    "address":"105 May Creek Drive , Kingsland, GA 31548 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Kingsland",
+    "url":"https://www.wyndhamhotels.com/baymont/kingsland-georgia/baymont-inn-kingsland-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6552271,30.7885667 ]
+    },
+    "properties": {
+    "address":"1220 Boone Ave Ext , Kingsland, GA 31548-5443 US",
+    "category":15000,
+    "name":"Super 8 Kingsland",
+    "url":"https://www.wyndhamhotels.com/super-8/kingsland-georgia/super-8-kingsland-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6541334,30.7919369 ]
+    },
+    "properties": {
+    "address":"1323 East King Avenue Left at Exit 3 off I-95,, Kingsland, GA 31548 US",
+    "category":15000,
+    "name":"Hawthorn Suites by Wyndham Kingsland",
+    "url":"https://www.wyndhamhotels.com/hawthorn-extended-stay/kingsland-georgia/hawthorn-suites-by-wyndham-kingsland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6544319,30.7910339 ]
+    },
+    "properties": {
+    "address":"1325 East King Avenue , Kingsland, GA 31548 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Kingsland",
+    "url":"https://www.wyndhamhotels.com/microtel/kingsland-georgia/microtel-inn-and-suites-kingsland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6480185,30.7872668 ]
+    },
+    "properties": {
+    "address":"1353 Highway 40 East , Kingsland, GA 31548 US",
+    "category":15000,
+    "name":"Days Inn Kingsland GA",
+    "url":"https://www.wyndhamhotels.com/days-inn/kingsland-georgia/days-inn-kingsland-ga/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3801622,33.2417293 ]
+    },
+    "properties": {
+    "address":"10747 Dunbarton Blvd , Barnwell, SC 29812 US",
+    "category":15000,
+    "name":"Days Inn Barnwell",
+    "url":"https://www.wyndhamhotels.com/days-inn/barnwell-south-carolina/days-inn-barnwell/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.817861,34.688091 ]
+    },
+    "properties": {
+    "address":"1387 Tiger Blvd , Clemson, SC 29631 US",
+    "category":15000,
+    "name":"Days Inn Clemson",
+    "url":"https://www.wyndhamhotels.com/days-inn/clemson-south-carolina/days-inn-clemson/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7127784,34.5790234 ]
+    },
+    "properties": {
+    "address":"102 Electric City Boulevard , Anderson, SC 29621-2306 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Anderson/Clemson",
+    "url":"https://www.wyndhamhotels.com/microtel/anderson-south-carolina/microtel-inn-and-suites-anderson-clemson/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7096569,34.5687423 ]
+    },
+    "properties": {
+    "address":"1007 George Smith Mill Rd , Anderson, SC 29625 US",
+    "category":15000,
+    "name":"Days Inn Anderson",
+    "url":"https://www.wyndhamhotels.com/days-inn/anderson-south-carolina/days-inn-anderson/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.7072647,34.5744275 ]
+    },
+    "properties": {
+    "address":"128 Interstate Blvd , Anderson, SC 29621 US",
+    "category":15000,
+    "name":"Baymont Inn & Suites Anderson Clemson",
+    "url":"https://www.wyndhamhotels.com/baymont/anderson-south-carolina/baymont-inn-anderson-clemson/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6722143,34.5494079 ]
+    },
+    "properties": {
+    "address":"3302 Cinema Avenue , Anderson, SC 29621-1346 US",
+    "category":15000,
+    "name":"Super 8 Anderson/Clemson Area",
+    "url":"https://www.wyndhamhotels.com/super-8/anderson-south-carolina/super-8-anderson-clemson-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.672,34.548428 ]
+    },
+    "properties": {
+    "address":"3430 Clemson Blvd , Anderson, SC 29621-1357 US",
+    "category":15000,
+    "name":"Howard Johnson Anderson Clemson Area",
+    "url":"https://www.wyndhamhotels.com/hojo/anderson-south-carolina/howard-johnson-anderson-clemson-area/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.438838,30.6397303 ]
+    },
+    "properties": {
+    "address":"2707 Sadler Road , Amelia Island, FL 32034 US",
+    "category":15000,
+    "name":"Days Inn & Suites Amelia Island At The Beach",
+    "url":"https://www.wyndhamhotels.com/days-inn/amelia-island-florida/days-inn-and-suites-amelia-island-at-the-beach/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.64805,30.483813 ]
+    },
+    "properties": {
+    "address":"1153 Airport Road , Jacksonville, FL 32218 US",
+    "category":15000,
+    "name":"Travelodge Inn And Suites Jacksonville Airport",
+    "url":"https://www.wyndhamhotels.com/travelodge/jacksonville-florida/travelodge-inn-and-suites-jacksonville-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6486871,30.4812909 ]
+    },
+    "properties": {
+    "address":"1170 Airport Road , Jacksonville, FL 32218-2402 US",
+    "category":15000,
+    "name":"Days Inn Jacksonville Airport",
+    "url":"https://www.wyndhamhotels.com/days-inn/jacksonville-florida/days-inn-jacksonville-airport-fl/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6655478,30.4837923 ]
+    },
+    "properties": {
+    "address":"13200 Intl Airport Blvd , Jacksonville, FL 32218 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Jacksonville Airport",
+    "url":"https://www.wyndhamhotels.com/microtel/jacksonville-florida/microtel-inn-and-suites-jacksonville-airport/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3611855,30.4015312 ]
+    },
+    "properties": {
+    "address":"6160 South State Road 53 , Madison, FL 32340 US",
+    "category":15000,
+    "name":"Days Inn Madison",
+    "url":"https://www.wyndhamhotels.com/days-inn/madison-florida/days-inn-madison-florida/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3602196,30.4005647 ]
+    },
+    "properties": {
+    "address":"6246 State Rd. 53 South , Madison, FL 32340 US",
+    "category":15000,
+    "name":"Super 8 Madison",
+    "url":"https://www.wyndhamhotels.com/super-8/madison-florida/super-8-madison-fl/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7523942,34.4364591 ]
+    },
+    "properties": {
+    "address":"1416 Glen Blvd SW , Fort Payne, AL 35968 US",
+    "category":15000,
+    "name":"Days Inn Fort Payne",
+    "url":"https://www.wyndhamhotels.com/days-inn/fort-payne-alabama/days-inn-fort-payne/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8211785,34.4848958 ]
+    },
+    "properties": {
+    "address":"46 Roy Sanderson Ave , Rainsville, AL 35986 US",
+    "category":15000,
+    "name":"Super 8 Rainsville",
+    "url":"https://www.wyndhamhotels.com/super-8/rainsville-alabama/super-8-rainsville/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9744593,32.4779491 ]
+    },
+    "properties": {
+    "address":"8216 East Main Street , Ridgeland, SC 29936 US",
+    "category":15000,
+    "name":"Travelodge Ridgeland",
+    "url":"https://www.wyndhamhotels.com/travelodge/ridgeland-south-carolina/travelodge-ridgeland/overview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4001405,32.6198801 ]
+    },
+    "properties": {
+    "address":"1651 Parker Way , Opelika, AL 36801 US",
+    "category":15000,
+    "name":"Microtel Inn & Suites by Wyndham Opelika",
+    "url":"https://www.wyndhamhotels.com/microtel/opelika-alabama/microtel-inn-and-suites-opelika/overview"
+    }
+  }
+]
+}
